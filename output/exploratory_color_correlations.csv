@@ -1,0 +1,13 @@
+﻿predictor,outcome,n_colors,pearson_r,spearman_rho,interpretation
+positive,best_f1,5,0.7627458838516262,0.9999999999999999,exploratory_only_small_n
+positive,best_balanced_accuracy,5,-0.35352057814319515,-0.09999999999999999,exploratory_only_small_n
+positive_rate,best_f1,5,0.8202643788578069,0.9999999999999999,exploratory_only_small_n
+positive_rate,best_balanced_accuracy,5,-0.2703644565974885,-0.09999999999999999,exploratory_only_small_n
+subset_unanimous_rate,best_f1,5,-0.4831444717286714,-0.49999999999999994,exploratory_only_small_n
+subset_unanimous_rate,best_balanced_accuracy,5,0.6495437087025452,0.7,exploratory_only_small_n
+subset_three_one_rate,best_f1,5,0.22432885304715547,0.09999999999999999,exploratory_only_small_n
+subset_three_one_rate,best_balanced_accuracy,5,-0.8486626397420661,-0.9999999999999999,exploratory_only_small_n
+subset_two_two_rate,best_f1,5,0.7644626977297442,0.8207826816681233,exploratory_only_small_n
+subset_two_two_rate,best_balanced_accuracy,5,-0.2511152047035428,-0.35909242322980395,exploratory_only_small_n
+subset_fleiss_kappa,best_f1,5,0.0865156546760252,-0.19999999999999998,exploratory_only_small_n
+subset_fleiss_kappa,best_balanced_accuracy,5,0.7489214901052362,0.8999999999999998,exploratory_only_small_n

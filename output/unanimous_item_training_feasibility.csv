@@ -1,0 +1,7 @@
+﻿color,unanimous_positive,unanimous_negative,unanimous_total,unanimous_positive_rate,can_train_binary,three_one_positive,three_one_negative,three_one_total,three_one_positive_rate,can_evaluate_three_one,two_two
+淡紅,30,195,225,0.13333333333333333,True,68,105,173,0.3930635838150289,True,102
+淡白,2,405,407,0.004914004914004914,True,15,50,65,0.23076923076923078,True,28
+鮮紅,32,146,178,0.1797752808988764,True,72,98,170,0.4235294117647059,True,152
+暗紅,9,144,153,0.058823529411764705,True,86,155,241,0.35684647302904565,True,106
+青紫,8,216,224,0.03571428571428571,True,40,134,174,0.22988505747126436,True,102
+灰黑,0,489,489,0.0,False,0,11,11,0.0,False,0

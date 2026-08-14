@@ -1,0 +1,13 @@
+﻿predictor,outcome,n_colors,pearson_r,spearman_rho,interpretation
+positive,best_f1,5,0.8987704654966336,0.8999999999999998,exploratory_only_small_n
+positive,best_balanced_accuracy,5,0.6979922888526946,0.7999999999999999,exploratory_only_small_n
+positive_rate,best_f1,5,0.9060970527409163,0.8999999999999998,exploratory_only_small_n
+positive_rate,best_balanced_accuracy,5,0.7108133722043686,0.7999999999999999,exploratory_only_small_n
+subset_unanimous_rate,best_f1,5,-0.7891117532159918,-0.6,exploratory_only_small_n
+subset_unanimous_rate,best_balanced_accuracy,5,-0.7309111745918856,-0.3,exploratory_only_small_n
+subset_three_one_rate,best_f1,5,0.6664865216877957,0.6,exploratory_only_small_n
+subset_three_one_rate,best_balanced_accuracy,5,0.566182593908114,0.3,exploratory_only_small_n
+subset_two_two_rate,best_f1,5,0.8873418331593161,0.7999999999999999,exploratory_only_small_n
+subset_two_two_rate,best_balanced_accuracy,5,0.9324284147724297,0.8999999999999998,exploratory_only_small_n
+subset_fleiss_kappa,best_f1,5,0.5550892213968771,0.6,exploratory_only_small_n
+subset_fleiss_kappa,best_balanced_accuracy,5,0.33898466330789667,0.49999999999999994,exploratory_only_small_n

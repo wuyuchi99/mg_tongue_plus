@@ -1,0 +1,2189 @@
+﻿image_id,region,color,model,fold,true,pred
+24,舌中,淡紅,SVM,1,0,1
+24,舌右邊,淡紅,SVM,1,0,1
+24,舌尖,淡紅,SVM,1,0,1
+24,舌左邊,淡紅,SVM,1,0,1
+24,舌根,淡紅,SVM,1,0,1
+27,舌中,淡紅,SVM,1,1,0
+27,舌右邊,淡紅,SVM,1,1,1
+27,舌尖,淡紅,SVM,1,1,1
+27,舌根,淡紅,SVM,1,1,1
+30,舌右邊,淡紅,SVM,1,0,1
+30,舌左邊,淡紅,SVM,1,0,1
+37,舌中,淡紅,SVM,1,1,1
+37,舌右邊,淡紅,SVM,1,1,1
+37,舌尖,淡紅,SVM,1,1,1
+37,舌左邊,淡紅,SVM,1,1,1
+37,舌根,淡紅,SVM,1,1,0
+44,舌根,淡紅,SVM,1,0,0
+46,舌中,淡紅,SVM,1,1,1
+46,舌右邊,淡紅,SVM,1,1,1
+46,舌左邊,淡紅,SVM,1,1,1
+46,舌根,淡紅,SVM,1,1,1
+50,舌中,淡紅,SVM,1,0,1
+50,舌右邊,淡紅,SVM,1,0,1
+50,舌尖,淡紅,SVM,1,0,1
+50,舌左邊,淡紅,SVM,1,0,1
+50,舌根,淡紅,SVM,1,0,1
+57,舌右邊,淡紅,SVM,1,0,0
+57,舌尖,淡紅,SVM,1,0,1
+57,舌左邊,淡紅,SVM,1,0,1
+58,舌根,淡紅,SVM,1,0,1
+6,舌中,淡紅,SVM,1,0,0
+6,舌右邊,淡紅,SVM,1,0,0
+6,舌尖,淡紅,SVM,1,0,0
+6,舌左邊,淡紅,SVM,1,0,0
+6,舌根,淡紅,SVM,1,0,0
+60,舌中,淡紅,SVM,1,0,1
+60,舌右邊,淡紅,SVM,1,0,1
+60,舌尖,淡紅,SVM,1,0,1
+60,舌左邊,淡紅,SVM,1,0,1
+60,舌根,淡紅,SVM,1,0,0
+10,舌中,淡紅,SVM,2,0,0
+10,舌右邊,淡紅,SVM,2,0,0
+10,舌尖,淡紅,SVM,2,0,0
+10,舌左邊,淡紅,SVM,2,0,0
+10,舌根,淡紅,SVM,2,0,0
+11,舌中,淡紅,SVM,2,0,0
+11,舌右邊,淡紅,SVM,2,0,0
+11,舌尖,淡紅,SVM,2,0,0
+11,舌左邊,淡紅,SVM,2,0,0
+11,舌根,淡紅,SVM,2,0,0
+13,舌右邊,淡紅,SVM,2,0,0
+13,舌尖,淡紅,SVM,2,0,0
+13,舌左邊,淡紅,SVM,2,0,0
+19,舌中,淡紅,SVM,2,1,1
+19,舌右邊,淡紅,SVM,2,1,1
+19,舌尖,淡紅,SVM,2,1,1
+19,舌左邊,淡紅,SVM,2,1,1
+19,舌根,淡紅,SVM,2,1,1
+23,舌中,淡紅,SVM,2,1,1
+23,舌右邊,淡紅,SVM,2,1,1
+23,舌左邊,淡紅,SVM,2,1,1
+23,舌根,淡紅,SVM,2,1,0
+47,舌左邊,淡紅,SVM,2,0,1
+52,舌中,淡紅,SVM,2,1,1
+52,舌右邊,淡紅,SVM,2,1,1
+52,舌左邊,淡紅,SVM,2,1,1
+52,舌根,淡紅,SVM,2,1,1
+53,舌尖,淡紅,SVM,2,0,1
+53,舌左邊,淡紅,SVM,2,1,1
+68,舌中,淡紅,SVM,2,0,0
+68,舌右邊,淡紅,SVM,2,0,0
+68,舌尖,淡紅,SVM,2,0,0
+68,舌左邊,淡紅,SVM,2,0,0
+68,舌根,淡紅,SVM,2,0,0
+7,舌中,淡紅,SVM,2,0,1
+7,舌根,淡紅,SVM,2,0,0
+96,舌中,淡紅,SVM,2,0,0
+96,舌右邊,淡紅,SVM,2,0,0
+96,舌尖,淡紅,SVM,2,0,0
+96,舌左邊,淡紅,SVM,2,0,0
+96,舌根,淡紅,SVM,2,0,0
+17,舌右邊,淡紅,SVM,3,0,0
+17,舌尖,淡紅,SVM,3,1,0
+17,舌左邊,淡紅,SVM,3,0,0
+20,舌尖,淡紅,SVM,3,1,1
+20,舌根,淡紅,SVM,3,1,0
+29,舌中,淡紅,SVM,3,1,1
+29,舌右邊,淡紅,SVM,3,1,1
+29,舌尖,淡紅,SVM,3,1,1
+29,舌根,淡紅,SVM,3,1,0
+31,舌中,淡紅,SVM,3,0,1
+31,舌右邊,淡紅,SVM,3,0,0
+31,舌尖,淡紅,SVM,3,0,1
+31,舌左邊,淡紅,SVM,3,0,1
+31,舌根,淡紅,SVM,3,0,0
+35,舌中,淡紅,SVM,3,0,1
+35,舌右邊,淡紅,SVM,3,0,0
+35,舌左邊,淡紅,SVM,3,0,1
+35,舌根,淡紅,SVM,3,0,0
+36,舌中,淡紅,SVM,3,1,1
+36,舌右邊,淡紅,SVM,3,1,1
+36,舌尖,淡紅,SVM,3,1,1
+36,舌左邊,淡紅,SVM,3,1,1
+36,舌根,淡紅,SVM,3,1,1
+40,舌中,淡紅,SVM,3,0,1
+40,舌右邊,淡紅,SVM,3,0,1
+40,舌尖,淡紅,SVM,3,0,1
+40,舌左邊,淡紅,SVM,3,0,1
+40,舌根,淡紅,SVM,3,0,1
+49,舌尖,淡紅,SVM,3,1,1
+49,舌左邊,淡紅,SVM,3,1,1
+64,舌中,淡紅,SVM,3,0,0
+64,舌右邊,淡紅,SVM,3,0,0
+64,舌尖,淡紅,SVM,3,0,0
+64,舌左邊,淡紅,SVM,3,0,0
+64,舌根,淡紅,SVM,3,0,0
+72,舌中,淡紅,SVM,3,0,0
+72,舌右邊,淡紅,SVM,3,0,0
+72,舌尖,淡紅,SVM,3,0,0
+72,舌左邊,淡紅,SVM,3,0,0
+72,舌根,淡紅,SVM,3,0,0
+2,舌右邊,淡紅,SVM,4,0,0
+2,舌尖,淡紅,SVM,4,0,0
+2,舌左邊,淡紅,SVM,4,0,0
+26,舌中,淡紅,SVM,4,1,1
+26,舌尖,淡紅,SVM,4,1,0
+39,舌尖,淡紅,SVM,4,1,1
+39,舌左邊,淡紅,SVM,4,1,1
+42,舌右邊,淡紅,SVM,4,0,0
+42,舌尖,淡紅,SVM,4,0,0
+42,舌左邊,淡紅,SVM,4,0,1
+45,舌中,淡紅,SVM,4,0,1
+45,舌右邊,淡紅,SVM,4,1,0
+45,舌左邊,淡紅,SVM,4,1,0
+45,舌根,淡紅,SVM,4,0,0
+48,舌中,淡紅,SVM,4,0,1
+48,舌右邊,淡紅,SVM,4,0,1
+48,舌尖,淡紅,SVM,4,0,0
+48,舌左邊,淡紅,SVM,4,0,1
+48,舌根,淡紅,SVM,4,0,0
+54,舌中,淡紅,SVM,4,1,0
+54,舌右邊,淡紅,SVM,4,1,1
+54,舌尖,淡紅,SVM,4,1,1
+54,舌左邊,淡紅,SVM,4,1,1
+54,舌根,淡紅,SVM,4,1,0
+55,舌中,淡紅,SVM,4,1,1
+55,舌右邊,淡紅,SVM,4,1,0
+55,舌尖,淡紅,SVM,4,1,1
+55,舌左邊,淡紅,SVM,4,1,1
+59,舌中,淡紅,SVM,4,0,1
+59,舌右邊,淡紅,SVM,4,0,0
+59,舌尖,淡紅,SVM,4,0,0
+59,舌左邊,淡紅,SVM,4,0,0
+59,舌根,淡紅,SVM,4,0,0
+85,舌中,淡紅,SVM,4,0,0
+85,舌右邊,淡紅,SVM,4,0,0
+85,舌尖,淡紅,SVM,4,0,0
+85,舌左邊,淡紅,SVM,4,0,0
+85,舌根,淡紅,SVM,4,0,0
+87,舌中,淡紅,SVM,4,0,0
+87,舌右邊,淡紅,SVM,4,0,0
+87,舌尖,淡紅,SVM,4,0,0
+87,舌左邊,淡紅,SVM,4,0,0
+87,舌根,淡紅,SVM,4,0,0
+32,舌右邊,淡紅,SVM,5,0,1
+32,舌尖,淡紅,SVM,5,0,0
+32,舌左邊,淡紅,SVM,5,0,1
+34,舌右邊,淡紅,SVM,5,0,1
+34,舌尖,淡紅,SVM,5,0,1
+34,舌左邊,淡紅,SVM,5,0,1
+34,舌根,淡紅,SVM,5,0,1
+38,舌中,淡紅,SVM,5,1,1
+38,舌右邊,淡紅,SVM,5,1,1
+38,舌尖,淡紅,SVM,5,1,1
+38,舌左邊,淡紅,SVM,5,1,1
+41,舌右邊,淡紅,SVM,5,1,0
+41,舌左邊,淡紅,SVM,5,1,0
+41,舌根,淡紅,SVM,5,1,0
+5,舌中,淡紅,SVM,5,0,0
+5,舌右邊,淡紅,SVM,5,0,0
+5,舌尖,淡紅,SVM,5,0,0
+5,舌左邊,淡紅,SVM,5,0,0
+5,舌根,淡紅,SVM,5,0,0
+51,舌中,淡紅,SVM,5,0,1
+51,舌右邊,淡紅,SVM,5,0,0
+51,舌尖,淡紅,SVM,5,0,0
+51,舌左邊,淡紅,SVM,5,0,0
+51,舌根,淡紅,SVM,5,0,0
+70,舌中,淡紅,SVM,5,0,0
+70,舌右邊,淡紅,SVM,5,0,0
+70,舌尖,淡紅,SVM,5,0,0
+70,舌左邊,淡紅,SVM,5,0,0
+70,舌根,淡紅,SVM,5,0,0
+74,舌中,淡紅,SVM,5,0,0
+74,舌右邊,淡紅,SVM,5,0,0
+74,舌左邊,淡紅,SVM,5,0,0
+74,舌根,淡紅,SVM,5,0,0
+8,舌中,淡紅,SVM,5,1,0
+8,舌右邊,淡紅,SVM,5,1,0
+8,舌尖,淡紅,SVM,5,1,0
+8,舌左邊,淡紅,SVM,5,1,0
+8,舌根,淡紅,SVM,5,1,0
+9,舌右邊,淡紅,SVM,5,1,0
+9,舌左邊,淡紅,SVM,5,1,0
+24,舌中,淡紅,Random Forest,1,0,0
+24,舌右邊,淡紅,Random Forest,1,0,1
+24,舌尖,淡紅,Random Forest,1,0,1
+24,舌左邊,淡紅,Random Forest,1,0,1
+24,舌根,淡紅,Random Forest,1,0,0
+27,舌中,淡紅,Random Forest,1,1,1
+27,舌右邊,淡紅,Random Forest,1,1,1
+27,舌尖,淡紅,Random Forest,1,1,1
+27,舌根,淡紅,Random Forest,1,1,0
+30,舌右邊,淡紅,Random Forest,1,0,1
+30,舌左邊,淡紅,Random Forest,1,0,1
+37,舌中,淡紅,Random Forest,1,1,1
+37,舌右邊,淡紅,Random Forest,1,1,1
+37,舌尖,淡紅,Random Forest,1,1,1
+37,舌左邊,淡紅,Random Forest,1,1,1
+37,舌根,淡紅,Random Forest,1,1,0
+44,舌根,淡紅,Random Forest,1,0,0
+46,舌中,淡紅,Random Forest,1,1,1
+46,舌右邊,淡紅,Random Forest,1,1,1
+46,舌左邊,淡紅,Random Forest,1,1,1
+46,舌根,淡紅,Random Forest,1,1,1
+50,舌中,淡紅,Random Forest,1,0,1
+50,舌右邊,淡紅,Random Forest,1,0,1
+50,舌尖,淡紅,Random Forest,1,0,1
+50,舌左邊,淡紅,Random Forest,1,0,1
+50,舌根,淡紅,Random Forest,1,0,1
+57,舌右邊,淡紅,Random Forest,1,0,0
+57,舌尖,淡紅,Random Forest,1,0,1
+57,舌左邊,淡紅,Random Forest,1,0,1
+58,舌根,淡紅,Random Forest,1,0,1
+6,舌中,淡紅,Random Forest,1,0,0
+6,舌右邊,淡紅,Random Forest,1,0,0
+6,舌尖,淡紅,Random Forest,1,0,0
+6,舌左邊,淡紅,Random Forest,1,0,0
+6,舌根,淡紅,Random Forest,1,0,0
+60,舌中,淡紅,Random Forest,1,0,0
+60,舌右邊,淡紅,Random Forest,1,0,1
+60,舌尖,淡紅,Random Forest,1,0,1
+60,舌左邊,淡紅,Random Forest,1,0,1
+60,舌根,淡紅,Random Forest,1,0,0
+10,舌中,淡紅,Random Forest,2,0,0
+10,舌右邊,淡紅,Random Forest,2,0,0
+10,舌尖,淡紅,Random Forest,2,0,0
+10,舌左邊,淡紅,Random Forest,2,0,0
+10,舌根,淡紅,Random Forest,2,0,0
+11,舌中,淡紅,Random Forest,2,0,0
+11,舌右邊,淡紅,Random Forest,2,0,0
+11,舌尖,淡紅,Random Forest,2,0,0
+11,舌左邊,淡紅,Random Forest,2,0,0
+11,舌根,淡紅,Random Forest,2,0,0
+13,舌右邊,淡紅,Random Forest,2,0,0
+13,舌尖,淡紅,Random Forest,2,0,0
+13,舌左邊,淡紅,Random Forest,2,0,0
+19,舌中,淡紅,Random Forest,2,1,1
+19,舌右邊,淡紅,Random Forest,2,1,1
+19,舌尖,淡紅,Random Forest,2,1,1
+19,舌左邊,淡紅,Random Forest,2,1,1
+19,舌根,淡紅,Random Forest,2,1,1
+23,舌中,淡紅,Random Forest,2,1,0
+23,舌右邊,淡紅,Random Forest,2,1,1
+23,舌左邊,淡紅,Random Forest,2,1,0
+23,舌根,淡紅,Random Forest,2,1,0
+47,舌左邊,淡紅,Random Forest,2,0,1
+52,舌中,淡紅,Random Forest,2,1,0
+52,舌右邊,淡紅,Random Forest,2,1,0
+52,舌左邊,淡紅,Random Forest,2,1,0
+52,舌根,淡紅,Random Forest,2,1,1
+53,舌尖,淡紅,Random Forest,2,0,0
+53,舌左邊,淡紅,Random Forest,2,1,0
+68,舌中,淡紅,Random Forest,2,0,0
+68,舌右邊,淡紅,Random Forest,2,0,0
+68,舌尖,淡紅,Random Forest,2,0,0
+68,舌左邊,淡紅,Random Forest,2,0,0
+68,舌根,淡紅,Random Forest,2,0,0
+7,舌中,淡紅,Random Forest,2,0,1
+7,舌根,淡紅,Random Forest,2,0,0
+96,舌中,淡紅,Random Forest,2,0,0
+96,舌右邊,淡紅,Random Forest,2,0,0
+96,舌尖,淡紅,Random Forest,2,0,0
+96,舌左邊,淡紅,Random Forest,2,0,0
+96,舌根,淡紅,Random Forest,2,0,0
+17,舌右邊,淡紅,Random Forest,3,0,0
+17,舌尖,淡紅,Random Forest,3,1,0
+17,舌左邊,淡紅,Random Forest,3,0,0
+20,舌尖,淡紅,Random Forest,3,1,0
+20,舌根,淡紅,Random Forest,3,1,1
+29,舌中,淡紅,Random Forest,3,1,1
+29,舌右邊,淡紅,Random Forest,3,1,0
+29,舌尖,淡紅,Random Forest,3,1,1
+29,舌根,淡紅,Random Forest,3,1,0
+31,舌中,淡紅,Random Forest,3,0,0
+31,舌右邊,淡紅,Random Forest,3,0,0
+31,舌尖,淡紅,Random Forest,3,0,1
+31,舌左邊,淡紅,Random Forest,3,0,0
+31,舌根,淡紅,Random Forest,3,0,0
+35,舌中,淡紅,Random Forest,3,0,1
+35,舌右邊,淡紅,Random Forest,3,0,0
+35,舌左邊,淡紅,Random Forest,3,0,0
+35,舌根,淡紅,Random Forest,3,0,0
+36,舌中,淡紅,Random Forest,3,1,1
+36,舌右邊,淡紅,Random Forest,3,1,1
+36,舌尖,淡紅,Random Forest,3,1,1
+36,舌左邊,淡紅,Random Forest,3,1,1
+36,舌根,淡紅,Random Forest,3,1,0
+40,舌中,淡紅,Random Forest,3,0,0
+40,舌右邊,淡紅,Random Forest,3,0,0
+40,舌尖,淡紅,Random Forest,3,0,0
+40,舌左邊,淡紅,Random Forest,3,0,0
+40,舌根,淡紅,Random Forest,3,0,0
+49,舌尖,淡紅,Random Forest,3,1,0
+49,舌左邊,淡紅,Random Forest,3,1,1
+64,舌中,淡紅,Random Forest,3,0,0
+64,舌右邊,淡紅,Random Forest,3,0,0
+64,舌尖,淡紅,Random Forest,3,0,0
+64,舌左邊,淡紅,Random Forest,3,0,0
+64,舌根,淡紅,Random Forest,3,0,0
+72,舌中,淡紅,Random Forest,3,0,0
+72,舌右邊,淡紅,Random Forest,3,0,0
+72,舌尖,淡紅,Random Forest,3,0,0
+72,舌左邊,淡紅,Random Forest,3,0,0
+72,舌根,淡紅,Random Forest,3,0,0
+2,舌右邊,淡紅,Random Forest,4,0,0
+2,舌尖,淡紅,Random Forest,4,0,0
+2,舌左邊,淡紅,Random Forest,4,0,0
+26,舌中,淡紅,Random Forest,4,1,1
+26,舌尖,淡紅,Random Forest,4,1,0
+39,舌尖,淡紅,Random Forest,4,1,0
+39,舌左邊,淡紅,Random Forest,4,1,0
+42,舌右邊,淡紅,Random Forest,4,0,0
+42,舌尖,淡紅,Random Forest,4,0,0
+42,舌左邊,淡紅,Random Forest,4,0,0
+45,舌中,淡紅,Random Forest,4,0,0
+45,舌右邊,淡紅,Random Forest,4,1,1
+45,舌左邊,淡紅,Random Forest,4,1,1
+45,舌根,淡紅,Random Forest,4,0,1
+48,舌中,淡紅,Random Forest,4,0,1
+48,舌右邊,淡紅,Random Forest,4,0,0
+48,舌尖,淡紅,Random Forest,4,0,0
+48,舌左邊,淡紅,Random Forest,4,0,0
+48,舌根,淡紅,Random Forest,4,0,0
+54,舌中,淡紅,Random Forest,4,1,1
+54,舌右邊,淡紅,Random Forest,4,1,1
+54,舌尖,淡紅,Random Forest,4,1,1
+54,舌左邊,淡紅,Random Forest,4,1,1
+54,舌根,淡紅,Random Forest,4,1,0
+55,舌中,淡紅,Random Forest,4,1,1
+55,舌右邊,淡紅,Random Forest,4,1,0
+55,舌尖,淡紅,Random Forest,4,1,1
+55,舌左邊,淡紅,Random Forest,4,1,1
+59,舌中,淡紅,Random Forest,4,0,1
+59,舌右邊,淡紅,Random Forest,4,0,1
+59,舌尖,淡紅,Random Forest,4,0,0
+59,舌左邊,淡紅,Random Forest,4,0,1
+59,舌根,淡紅,Random Forest,4,0,0
+85,舌中,淡紅,Random Forest,4,0,0
+85,舌右邊,淡紅,Random Forest,4,0,0
+85,舌尖,淡紅,Random Forest,4,0,0
+85,舌左邊,淡紅,Random Forest,4,0,0
+85,舌根,淡紅,Random Forest,4,0,0
+87,舌中,淡紅,Random Forest,4,0,0
+87,舌右邊,淡紅,Random Forest,4,0,0
+87,舌尖,淡紅,Random Forest,4,0,0
+87,舌左邊,淡紅,Random Forest,4,0,0
+87,舌根,淡紅,Random Forest,4,0,0
+32,舌右邊,淡紅,Random Forest,5,0,0
+32,舌尖,淡紅,Random Forest,5,0,1
+32,舌左邊,淡紅,Random Forest,5,0,0
+34,舌右邊,淡紅,Random Forest,5,0,1
+34,舌尖,淡紅,Random Forest,5,0,1
+34,舌左邊,淡紅,Random Forest,5,0,0
+34,舌根,淡紅,Random Forest,5,0,1
+38,舌中,淡紅,Random Forest,5,1,1
+38,舌右邊,淡紅,Random Forest,5,1,0
+38,舌尖,淡紅,Random Forest,5,1,0
+38,舌左邊,淡紅,Random Forest,5,1,0
+41,舌右邊,淡紅,Random Forest,5,1,1
+41,舌左邊,淡紅,Random Forest,5,1,1
+41,舌根,淡紅,Random Forest,5,1,0
+5,舌中,淡紅,Random Forest,5,0,0
+5,舌右邊,淡紅,Random Forest,5,0,0
+5,舌尖,淡紅,Random Forest,5,0,0
+5,舌左邊,淡紅,Random Forest,5,0,0
+5,舌根,淡紅,Random Forest,5,0,0
+51,舌中,淡紅,Random Forest,5,0,1
+51,舌右邊,淡紅,Random Forest,5,0,0
+51,舌尖,淡紅,Random Forest,5,0,0
+51,舌左邊,淡紅,Random Forest,5,0,0
+51,舌根,淡紅,Random Forest,5,0,0
+70,舌中,淡紅,Random Forest,5,0,0
+70,舌右邊,淡紅,Random Forest,5,0,0
+70,舌尖,淡紅,Random Forest,5,0,0
+70,舌左邊,淡紅,Random Forest,5,0,0
+70,舌根,淡紅,Random Forest,5,0,0
+74,舌中,淡紅,Random Forest,5,0,0
+74,舌右邊,淡紅,Random Forest,5,0,0
+74,舌左邊,淡紅,Random Forest,5,0,0
+74,舌根,淡紅,Random Forest,5,0,0
+8,舌中,淡紅,Random Forest,5,1,0
+8,舌右邊,淡紅,Random Forest,5,1,0
+8,舌尖,淡紅,Random Forest,5,1,0
+8,舌左邊,淡紅,Random Forest,5,1,0
+8,舌根,淡紅,Random Forest,5,1,0
+9,舌右邊,淡紅,Random Forest,5,1,0
+9,舌左邊,淡紅,Random Forest,5,1,0
+10,舌中,淡白,SVM,1,0,1
+10,舌右邊,淡白,SVM,1,0,0
+10,舌尖,淡白,SVM,1,0,0
+10,舌左邊,淡白,SVM,1,0,0
+10,舌根,淡白,SVM,1,0,0
+2,舌中,淡白,SVM,1,0,0
+2,舌右邊,淡白,SVM,1,0,0
+2,舌尖,淡白,SVM,1,0,0
+2,舌左邊,淡白,SVM,1,0,0
+2,舌根,淡白,SVM,1,0,0
+26,舌中,淡白,SVM,1,0,0
+26,舌右邊,淡白,SVM,1,0,0
+26,舌尖,淡白,SVM,1,0,0
+26,舌左邊,淡白,SVM,1,0,0
+26,舌根,淡白,SVM,1,0,0
+27,舌中,淡白,SVM,1,0,0
+27,舌根,淡白,SVM,1,0,0
+32,舌中,淡白,SVM,1,0,0
+32,舌右邊,淡白,SVM,1,0,0
+32,舌尖,淡白,SVM,1,0,0
+32,舌左邊,淡白,SVM,1,0,0
+32,舌根,淡白,SVM,1,0,0
+39,舌中,淡白,SVM,1,0,0
+39,舌右邊,淡白,SVM,1,0,0
+39,舌尖,淡白,SVM,1,0,0
+39,舌左邊,淡白,SVM,1,0,0
+39,舌根,淡白,SVM,1,0,0
+45,舌中,淡白,SVM,1,0,0
+45,舌右邊,淡白,SVM,1,0,0
+45,舌尖,淡白,SVM,1,0,0
+45,舌左邊,淡白,SVM,1,0,0
+45,舌根,淡白,SVM,1,0,0
+55,舌中,淡白,SVM,1,0,0
+55,舌右邊,淡白,SVM,1,0,0
+55,舌尖,淡白,SVM,1,0,0
+55,舌左邊,淡白,SVM,1,0,0
+55,舌根,淡白,SVM,1,0,0
+58,舌中,淡白,SVM,1,1,0
+58,舌右邊,淡白,SVM,1,1,0
+58,舌左邊,淡白,SVM,1,1,0
+58,舌根,淡白,SVM,1,1,0
+72,舌中,淡白,SVM,1,0,0
+72,舌右邊,淡白,SVM,1,0,0
+72,舌尖,淡白,SVM,1,0,0
+72,舌左邊,淡白,SVM,1,0,0
+72,舌根,淡白,SVM,1,0,0
+96,舌中,淡白,SVM,1,0,0
+96,舌右邊,淡白,SVM,1,0,0
+96,舌尖,淡白,SVM,1,0,0
+96,舌左邊,淡白,SVM,1,0,0
+96,舌根,淡白,SVM,1,0,0
+11,舌中,淡白,SVM,2,0,0
+11,舌右邊,淡白,SVM,2,0,0
+11,舌尖,淡白,SVM,2,0,0
+11,舌左邊,淡白,SVM,2,0,0
+11,舌根,淡白,SVM,2,0,0
+20,舌中,淡白,SVM,2,0,0
+20,舌尖,淡白,SVM,2,0,0
+20,舌根,淡白,SVM,2,0,0
+24,舌中,淡白,SVM,2,0,0
+24,舌右邊,淡白,SVM,2,0,1
+24,舌尖,淡白,SVM,2,0,1
+24,舌左邊,淡白,SVM,2,0,1
+24,舌根,淡白,SVM,2,0,0
+37,舌中,淡白,SVM,2,0,0
+37,舌右邊,淡白,SVM,2,0,0
+37,舌尖,淡白,SVM,2,0,0
+37,舌左邊,淡白,SVM,2,0,0
+37,舌根,淡白,SVM,2,0,0
+40,舌中,淡白,SVM,2,0,0
+40,舌右邊,淡白,SVM,2,0,0
+40,舌尖,淡白,SVM,2,0,0
+40,舌左邊,淡白,SVM,2,0,0
+40,舌根,淡白,SVM,2,0,0
+44,舌中,淡白,SVM,2,0,1
+44,舌右邊,淡白,SVM,2,0,1
+44,舌尖,淡白,SVM,2,0,1
+44,舌左邊,淡白,SVM,2,0,1
+44,舌根,淡白,SVM,2,0,0
+5,舌左邊,淡白,SVM,2,1,0
+50,舌中,淡白,SVM,2,0,0
+50,舌右邊,淡白,SVM,2,0,0
+50,舌尖,淡白,SVM,2,0,0
+50,舌左邊,淡白,SVM,2,0,0
+50,舌根,淡白,SVM,2,0,0
+53,舌中,淡白,SVM,2,0,1
+53,舌右邊,淡白,SVM,2,0,0
+53,舌尖,淡白,SVM,2,0,0
+53,舌左邊,淡白,SVM,2,0,0
+53,舌根,淡白,SVM,2,0,0
+60,舌中,淡白,SVM,2,0,0
+60,舌右邊,淡白,SVM,2,0,0
+60,舌尖,淡白,SVM,2,0,0
+60,舌左邊,淡白,SVM,2,0,0
+60,舌根,淡白,SVM,2,0,0
+74,舌中,淡白,SVM,2,0,0
+74,舌右邊,淡白,SVM,2,0,0
+74,舌尖,淡白,SVM,2,0,0
+74,舌左邊,淡白,SVM,2,0,0
+74,舌根,淡白,SVM,2,0,0
+23,舌中,淡白,SVM,3,0,1
+23,舌右邊,淡白,SVM,3,0,1
+23,舌尖,淡白,SVM,3,0,1
+23,舌左邊,淡白,SVM,3,0,1
+23,舌根,淡白,SVM,3,0,0
+29,舌中,淡白,SVM,3,0,1
+29,舌右邊,淡白,SVM,3,0,1
+29,舌尖,淡白,SVM,3,0,1
+29,舌左邊,淡白,SVM,3,0,1
+29,舌根,淡白,SVM,3,0,1
+47,舌中,淡白,SVM,3,0,1
+47,舌右邊,淡白,SVM,3,0,0
+47,舌尖,淡白,SVM,3,0,0
+47,舌左邊,淡白,SVM,3,0,0
+47,舌根,淡白,SVM,3,0,0
+49,舌中,淡白,SVM,3,0,0
+49,舌右邊,淡白,SVM,3,0,0
+49,舌尖,淡白,SVM,3,0,0
+49,舌左邊,淡白,SVM,3,0,0
+49,舌根,淡白,SVM,3,0,0
+56,舌中,淡白,SVM,3,0,0
+56,舌右邊,淡白,SVM,3,0,0
+56,舌尖,淡白,SVM,3,0,1
+56,舌左邊,淡白,SVM,3,0,1
+56,舌根,淡白,SVM,3,0,0
+57,舌中,淡白,SVM,3,0,0
+57,舌右邊,淡白,SVM,3,0,0
+57,舌尖,淡白,SVM,3,0,0
+57,舌左邊,淡白,SVM,3,0,0
+57,舌根,淡白,SVM,3,0,0
+59,舌中,淡白,SVM,3,0,0
+59,舌右邊,淡白,SVM,3,0,0
+59,舌尖,淡白,SVM,3,0,1
+59,舌左邊,淡白,SVM,3,0,0
+59,舌根,淡白,SVM,3,0,0
+8,舌中,淡白,SVM,3,0,1
+8,舌右邊,淡白,SVM,3,0,1
+8,舌尖,淡白,SVM,3,0,0
+8,舌左邊,淡白,SVM,3,0,0
+8,舌根,淡白,SVM,3,0,0
+85,舌中,淡白,SVM,3,0,0
+85,舌右邊,淡白,SVM,3,0,0
+85,舌尖,淡白,SVM,3,0,0
+85,舌左邊,淡白,SVM,3,0,0
+85,舌根,淡白,SVM,3,0,0
+9,舌中,淡白,SVM,3,0,1
+9,舌右邊,淡白,SVM,3,0,0
+9,舌尖,淡白,SVM,3,0,0
+9,舌左邊,淡白,SVM,3,0,0
+9,舌根,淡白,SVM,3,0,0
+17,舌中,淡白,SVM,4,0,0
+17,舌右邊,淡白,SVM,4,0,0
+17,舌尖,淡白,SVM,4,0,0
+17,舌左邊,淡白,SVM,4,0,0
+17,舌根,淡白,SVM,4,0,0
+31,舌中,淡白,SVM,4,0,0
+31,舌右邊,淡白,SVM,4,0,0
+31,舌尖,淡白,SVM,4,0,0
+31,舌左邊,淡白,SVM,4,0,0
+31,舌根,淡白,SVM,4,0,0
+36,舌中,淡白,SVM,4,0,0
+36,舌尖,淡白,SVM,4,0,0
+36,舌根,淡白,SVM,4,0,0
+41,舌中,淡白,SVM,4,0,0
+41,舌右邊,淡白,SVM,4,0,0
+41,舌尖,淡白,SVM,4,0,0
+41,舌左邊,淡白,SVM,4,0,0
+41,舌根,淡白,SVM,4,0,0
+42,舌中,淡白,SVM,4,0,0
+42,舌右邊,淡白,SVM,4,0,0
+42,舌尖,淡白,SVM,4,0,0
+42,舌左邊,淡白,SVM,4,0,0
+42,舌根,淡白,SVM,4,0,0
+46,舌中,淡白,SVM,4,0,0
+46,舌右邊,淡白,SVM,4,0,0
+46,舌尖,淡白,SVM,4,0,0
+46,舌左邊,淡白,SVM,4,0,1
+46,舌根,淡白,SVM,4,0,0
+48,舌中,淡白,SVM,4,0,1
+48,舌右邊,淡白,SVM,4,0,0
+48,舌尖,淡白,SVM,4,0,0
+48,舌左邊,淡白,SVM,4,0,0
+48,舌根,淡白,SVM,4,0,0
+54,舌中,淡白,SVM,4,0,0
+54,舌右邊,淡白,SVM,4,0,0
+54,舌尖,淡白,SVM,4,0,0
+54,舌左邊,淡白,SVM,4,0,0
+54,舌根,淡白,SVM,4,0,0
+64,舌中,淡白,SVM,4,0,0
+64,舌右邊,淡白,SVM,4,0,0
+64,舌尖,淡白,SVM,4,0,0
+64,舌左邊,淡白,SVM,4,0,0
+64,舌根,淡白,SVM,4,0,0
+70,舌中,淡白,SVM,4,0,0
+70,舌右邊,淡白,SVM,4,0,0
+70,舌尖,淡白,SVM,4,0,0
+70,舌左邊,淡白,SVM,4,0,0
+70,舌根,淡白,SVM,4,0,0
+13,舌右邊,淡白,SVM,5,0,0
+13,舌尖,淡白,SVM,5,0,0
+13,舌左邊,淡白,SVM,5,0,0
+19,舌中,淡白,SVM,5,0,1
+19,舌右邊,淡白,SVM,5,0,1
+19,舌尖,淡白,SVM,5,0,1
+19,舌左邊,淡白,SVM,5,0,1
+19,舌根,淡白,SVM,5,0,0
+34,舌中,淡白,SVM,5,0,0
+34,舌右邊,淡白,SVM,5,0,0
+34,舌尖,淡白,SVM,5,0,0
+34,舌左邊,淡白,SVM,5,0,0
+34,舌根,淡白,SVM,5,0,0
+35,舌中,淡白,SVM,5,0,0
+35,舌右邊,淡白,SVM,5,0,0
+35,舌尖,淡白,SVM,5,0,0
+35,舌左邊,淡白,SVM,5,0,0
+35,舌根,淡白,SVM,5,0,0
+38,舌中,淡白,SVM,5,0,1
+38,舌右邊,淡白,SVM,5,0,0
+38,舌尖,淡白,SVM,5,0,0
+38,舌左邊,淡白,SVM,5,0,0
+38,舌根,淡白,SVM,5,0,0
+51,舌中,淡白,SVM,5,0,0
+51,舌右邊,淡白,SVM,5,0,0
+51,舌尖,淡白,SVM,5,0,0
+51,舌左邊,淡白,SVM,5,0,0
+51,舌根,淡白,SVM,5,0,0
+52,舌中,淡白,SVM,5,0,1
+52,舌右邊,淡白,SVM,5,0,0
+52,舌尖,淡白,SVM,5,0,1
+52,舌左邊,淡白,SVM,5,0,1
+52,舌根,淡白,SVM,5,0,0
+6,舌中,淡白,SVM,5,0,0
+6,舌右邊,淡白,SVM,5,0,0
+6,舌尖,淡白,SVM,5,0,0
+6,舌左邊,淡白,SVM,5,0,1
+6,舌根,淡白,SVM,5,0,0
+68,舌中,淡白,SVM,5,0,0
+68,舌右邊,淡白,SVM,5,0,0
+68,舌尖,淡白,SVM,5,0,0
+68,舌左邊,淡白,SVM,5,0,0
+68,舌根,淡白,SVM,5,0,0
+87,舌中,淡白,SVM,5,0,0
+87,舌右邊,淡白,SVM,5,0,0
+87,舌尖,淡白,SVM,5,0,0
+87,舌左邊,淡白,SVM,5,0,0
+87,舌根,淡白,SVM,5,0,0
+10,舌中,淡白,Random Forest,1,0,0
+10,舌右邊,淡白,Random Forest,1,0,0
+10,舌尖,淡白,Random Forest,1,0,0
+10,舌左邊,淡白,Random Forest,1,0,0
+10,舌根,淡白,Random Forest,1,0,0
+2,舌中,淡白,Random Forest,1,0,0
+2,舌右邊,淡白,Random Forest,1,0,0
+2,舌尖,淡白,Random Forest,1,0,0
+2,舌左邊,淡白,Random Forest,1,0,0
+2,舌根,淡白,Random Forest,1,0,0
+26,舌中,淡白,Random Forest,1,0,0
+26,舌右邊,淡白,Random Forest,1,0,0
+26,舌尖,淡白,Random Forest,1,0,0
+26,舌左邊,淡白,Random Forest,1,0,0
+26,舌根,淡白,Random Forest,1,0,0
+27,舌中,淡白,Random Forest,1,0,0
+27,舌根,淡白,Random Forest,1,0,0
+32,舌中,淡白,Random Forest,1,0,0
+32,舌右邊,淡白,Random Forest,1,0,0
+32,舌尖,淡白,Random Forest,1,0,0
+32,舌左邊,淡白,Random Forest,1,0,0
+32,舌根,淡白,Random Forest,1,0,0
+39,舌中,淡白,Random Forest,1,0,0
+39,舌右邊,淡白,Random Forest,1,0,0
+39,舌尖,淡白,Random Forest,1,0,0
+39,舌左邊,淡白,Random Forest,1,0,0
+39,舌根,淡白,Random Forest,1,0,0
+45,舌中,淡白,Random Forest,1,0,0
+45,舌右邊,淡白,Random Forest,1,0,0
+45,舌尖,淡白,Random Forest,1,0,0
+45,舌左邊,淡白,Random Forest,1,0,0
+45,舌根,淡白,Random Forest,1,0,0
+55,舌中,淡白,Random Forest,1,0,0
+55,舌右邊,淡白,Random Forest,1,0,0
+55,舌尖,淡白,Random Forest,1,0,0
+55,舌左邊,淡白,Random Forest,1,0,0
+55,舌根,淡白,Random Forest,1,0,0
+58,舌中,淡白,Random Forest,1,1,0
+58,舌右邊,淡白,Random Forest,1,1,0
+58,舌左邊,淡白,Random Forest,1,1,0
+58,舌根,淡白,Random Forest,1,1,0
+72,舌中,淡白,Random Forest,1,0,0
+72,舌右邊,淡白,Random Forest,1,0,0
+72,舌尖,淡白,Random Forest,1,0,0
+72,舌左邊,淡白,Random Forest,1,0,0
+72,舌根,淡白,Random Forest,1,0,0
+96,舌中,淡白,Random Forest,1,0,0
+96,舌右邊,淡白,Random Forest,1,0,0
+96,舌尖,淡白,Random Forest,1,0,0
+96,舌左邊,淡白,Random Forest,1,0,0
+96,舌根,淡白,Random Forest,1,0,0
+11,舌中,淡白,Random Forest,2,0,0
+11,舌右邊,淡白,Random Forest,2,0,0
+11,舌尖,淡白,Random Forest,2,0,0
+11,舌左邊,淡白,Random Forest,2,0,0
+11,舌根,淡白,Random Forest,2,0,0
+20,舌中,淡白,Random Forest,2,0,0
+20,舌尖,淡白,Random Forest,2,0,0
+20,舌根,淡白,Random Forest,2,0,0
+24,舌中,淡白,Random Forest,2,0,0
+24,舌右邊,淡白,Random Forest,2,0,0
+24,舌尖,淡白,Random Forest,2,0,0
+24,舌左邊,淡白,Random Forest,2,0,0
+24,舌根,淡白,Random Forest,2,0,0
+37,舌中,淡白,Random Forest,2,0,0
+37,舌右邊,淡白,Random Forest,2,0,0
+37,舌尖,淡白,Random Forest,2,0,0
+37,舌左邊,淡白,Random Forest,2,0,0
+37,舌根,淡白,Random Forest,2,0,0
+40,舌中,淡白,Random Forest,2,0,0
+40,舌右邊,淡白,Random Forest,2,0,0
+40,舌尖,淡白,Random Forest,2,0,0
+40,舌左邊,淡白,Random Forest,2,0,0
+40,舌根,淡白,Random Forest,2,0,0
+44,舌中,淡白,Random Forest,2,0,0
+44,舌右邊,淡白,Random Forest,2,0,0
+44,舌尖,淡白,Random Forest,2,0,0
+44,舌左邊,淡白,Random Forest,2,0,0
+44,舌根,淡白,Random Forest,2,0,0
+5,舌左邊,淡白,Random Forest,2,1,0
+50,舌中,淡白,Random Forest,2,0,0
+50,舌右邊,淡白,Random Forest,2,0,0
+50,舌尖,淡白,Random Forest,2,0,0
+50,舌左邊,淡白,Random Forest,2,0,0
+50,舌根,淡白,Random Forest,2,0,0
+53,舌中,淡白,Random Forest,2,0,0
+53,舌右邊,淡白,Random Forest,2,0,0
+53,舌尖,淡白,Random Forest,2,0,0
+53,舌左邊,淡白,Random Forest,2,0,0
+53,舌根,淡白,Random Forest,2,0,0
+60,舌中,淡白,Random Forest,2,0,0
+60,舌右邊,淡白,Random Forest,2,0,0
+60,舌尖,淡白,Random Forest,2,0,0
+60,舌左邊,淡白,Random Forest,2,0,0
+60,舌根,淡白,Random Forest,2,0,0
+74,舌中,淡白,Random Forest,2,0,0
+74,舌右邊,淡白,Random Forest,2,0,0
+74,舌尖,淡白,Random Forest,2,0,0
+74,舌左邊,淡白,Random Forest,2,0,0
+74,舌根,淡白,Random Forest,2,0,0
+23,舌中,淡白,Random Forest,3,0,0
+23,舌右邊,淡白,Random Forest,3,0,0
+23,舌尖,淡白,Random Forest,3,0,0
+23,舌左邊,淡白,Random Forest,3,0,0
+23,舌根,淡白,Random Forest,3,0,0
+29,舌中,淡白,Random Forest,3,0,0
+29,舌右邊,淡白,Random Forest,3,0,0
+29,舌尖,淡白,Random Forest,3,0,0
+29,舌左邊,淡白,Random Forest,3,0,0
+29,舌根,淡白,Random Forest,3,0,0
+47,舌中,淡白,Random Forest,3,0,0
+47,舌右邊,淡白,Random Forest,3,0,0
+47,舌尖,淡白,Random Forest,3,0,0
+47,舌左邊,淡白,Random Forest,3,0,0
+47,舌根,淡白,Random Forest,3,0,0
+49,舌中,淡白,Random Forest,3,0,0
+49,舌右邊,淡白,Random Forest,3,0,0
+49,舌尖,淡白,Random Forest,3,0,0
+49,舌左邊,淡白,Random Forest,3,0,0
+49,舌根,淡白,Random Forest,3,0,0
+56,舌中,淡白,Random Forest,3,0,0
+56,舌右邊,淡白,Random Forest,3,0,0
+56,舌尖,淡白,Random Forest,3,0,0
+56,舌左邊,淡白,Random Forest,3,0,0
+56,舌根,淡白,Random Forest,3,0,0
+57,舌中,淡白,Random Forest,3,0,0
+57,舌右邊,淡白,Random Forest,3,0,0
+57,舌尖,淡白,Random Forest,3,0,0
+57,舌左邊,淡白,Random Forest,3,0,0
+57,舌根,淡白,Random Forest,3,0,0
+59,舌中,淡白,Random Forest,3,0,0
+59,舌右邊,淡白,Random Forest,3,0,0
+59,舌尖,淡白,Random Forest,3,0,0
+59,舌左邊,淡白,Random Forest,3,0,0
+59,舌根,淡白,Random Forest,3,0,0
+8,舌中,淡白,Random Forest,3,0,0
+8,舌右邊,淡白,Random Forest,3,0,0
+8,舌尖,淡白,Random Forest,3,0,0
+8,舌左邊,淡白,Random Forest,3,0,0
+8,舌根,淡白,Random Forest,3,0,0
+85,舌中,淡白,Random Forest,3,0,0
+85,舌右邊,淡白,Random Forest,3,0,0
+85,舌尖,淡白,Random Forest,3,0,0
+85,舌左邊,淡白,Random Forest,3,0,0
+85,舌根,淡白,Random Forest,3,0,0
+9,舌中,淡白,Random Forest,3,0,0
+9,舌右邊,淡白,Random Forest,3,0,0
+9,舌尖,淡白,Random Forest,3,0,0
+9,舌左邊,淡白,Random Forest,3,0,0
+9,舌根,淡白,Random Forest,3,0,0
+17,舌中,淡白,Random Forest,4,0,0
+17,舌右邊,淡白,Random Forest,4,0,0
+17,舌尖,淡白,Random Forest,4,0,0
+17,舌左邊,淡白,Random Forest,4,0,0
+17,舌根,淡白,Random Forest,4,0,0
+31,舌中,淡白,Random Forest,4,0,0
+31,舌右邊,淡白,Random Forest,4,0,0
+31,舌尖,淡白,Random Forest,4,0,0
+31,舌左邊,淡白,Random Forest,4,0,0
+31,舌根,淡白,Random Forest,4,0,0
+36,舌中,淡白,Random Forest,4,0,0
+36,舌尖,淡白,Random Forest,4,0,0
+36,舌根,淡白,Random Forest,4,0,0
+41,舌中,淡白,Random Forest,4,0,0
+41,舌右邊,淡白,Random Forest,4,0,0
+41,舌尖,淡白,Random Forest,4,0,0
+41,舌左邊,淡白,Random Forest,4,0,0
+41,舌根,淡白,Random Forest,4,0,0
+42,舌中,淡白,Random Forest,4,0,0
+42,舌右邊,淡白,Random Forest,4,0,0
+42,舌尖,淡白,Random Forest,4,0,0
+42,舌左邊,淡白,Random Forest,4,0,0
+42,舌根,淡白,Random Forest,4,0,0
+46,舌中,淡白,Random Forest,4,0,0
+46,舌右邊,淡白,Random Forest,4,0,0
+46,舌尖,淡白,Random Forest,4,0,0
+46,舌左邊,淡白,Random Forest,4,0,0
+46,舌根,淡白,Random Forest,4,0,0
+48,舌中,淡白,Random Forest,4,0,0
+48,舌右邊,淡白,Random Forest,4,0,0
+48,舌尖,淡白,Random Forest,4,0,0
+48,舌左邊,淡白,Random Forest,4,0,0
+48,舌根,淡白,Random Forest,4,0,0
+54,舌中,淡白,Random Forest,4,0,0
+54,舌右邊,淡白,Random Forest,4,0,0
+54,舌尖,淡白,Random Forest,4,0,0
+54,舌左邊,淡白,Random Forest,4,0,0
+54,舌根,淡白,Random Forest,4,0,0
+64,舌中,淡白,Random Forest,4,0,0
+64,舌右邊,淡白,Random Forest,4,0,0
+64,舌尖,淡白,Random Forest,4,0,0
+64,舌左邊,淡白,Random Forest,4,0,0
+64,舌根,淡白,Random Forest,4,0,0
+70,舌中,淡白,Random Forest,4,0,0
+70,舌右邊,淡白,Random Forest,4,0,0
+70,舌尖,淡白,Random Forest,4,0,0
+70,舌左邊,淡白,Random Forest,4,0,0
+70,舌根,淡白,Random Forest,4,0,0
+13,舌右邊,淡白,Random Forest,5,0,0
+13,舌尖,淡白,Random Forest,5,0,0
+13,舌左邊,淡白,Random Forest,5,0,0
+19,舌中,淡白,Random Forest,5,0,0
+19,舌右邊,淡白,Random Forest,5,0,0
+19,舌尖,淡白,Random Forest,5,0,0
+19,舌左邊,淡白,Random Forest,5,0,0
+19,舌根,淡白,Random Forest,5,0,0
+34,舌中,淡白,Random Forest,5,0,0
+34,舌右邊,淡白,Random Forest,5,0,0
+34,舌尖,淡白,Random Forest,5,0,0
+34,舌左邊,淡白,Random Forest,5,0,0
+34,舌根,淡白,Random Forest,5,0,0
+35,舌中,淡白,Random Forest,5,0,0
+35,舌右邊,淡白,Random Forest,5,0,0
+35,舌尖,淡白,Random Forest,5,0,0
+35,舌左邊,淡白,Random Forest,5,0,0
+35,舌根,淡白,Random Forest,5,0,0
+38,舌中,淡白,Random Forest,5,0,0
+38,舌右邊,淡白,Random Forest,5,0,0
+38,舌尖,淡白,Random Forest,5,0,0
+38,舌左邊,淡白,Random Forest,5,0,0
+38,舌根,淡白,Random Forest,5,0,0
+51,舌中,淡白,Random Forest,5,0,0
+51,舌右邊,淡白,Random Forest,5,0,0
+51,舌尖,淡白,Random Forest,5,0,0
+51,舌左邊,淡白,Random Forest,5,0,0
+51,舌根,淡白,Random Forest,5,0,0
+52,舌中,淡白,Random Forest,5,0,0
+52,舌右邊,淡白,Random Forest,5,0,0
+52,舌尖,淡白,Random Forest,5,0,0
+52,舌左邊,淡白,Random Forest,5,0,0
+52,舌根,淡白,Random Forest,5,0,0
+6,舌中,淡白,Random Forest,5,0,0
+6,舌右邊,淡白,Random Forest,5,0,0
+6,舌尖,淡白,Random Forest,5,0,0
+6,舌左邊,淡白,Random Forest,5,0,0
+6,舌根,淡白,Random Forest,5,0,0
+68,舌中,淡白,Random Forest,5,0,0
+68,舌右邊,淡白,Random Forest,5,0,0
+68,舌尖,淡白,Random Forest,5,0,0
+68,舌左邊,淡白,Random Forest,5,0,0
+68,舌根,淡白,Random Forest,5,0,0
+87,舌中,淡白,Random Forest,5,0,0
+87,舌右邊,淡白,Random Forest,5,0,0
+87,舌尖,淡白,Random Forest,5,0,0
+87,舌左邊,淡白,Random Forest,5,0,0
+87,舌根,淡白,Random Forest,5,0,0
+30,舌中,鮮紅,SVM,1,0,0
+30,舌右邊,鮮紅,SVM,1,0,0
+30,舌尖,鮮紅,SVM,1,0,0
+30,舌左邊,鮮紅,SVM,1,0,0
+30,舌根,鮮紅,SVM,1,0,0
+45,舌中,鮮紅,SVM,1,0,0
+45,舌右邊,鮮紅,SVM,1,0,0
+45,舌尖,鮮紅,SVM,1,0,0
+45,舌左邊,鮮紅,SVM,1,0,0
+45,舌根,鮮紅,SVM,1,0,0
+46,舌中,鮮紅,SVM,1,0,0
+46,舌右邊,鮮紅,SVM,1,0,0
+46,舌左邊,鮮紅,SVM,1,0,0
+46,舌根,鮮紅,SVM,1,0,0
+48,舌尖,鮮紅,SVM,1,1,1
+58,舌中,鮮紅,SVM,1,0,0
+58,舌右邊,鮮紅,SVM,1,0,0
+58,舌尖,鮮紅,SVM,1,0,0
+58,舌左邊,鮮紅,SVM,1,0,0
+58,舌根,鮮紅,SVM,1,0,0
+60,舌尖,鮮紅,SVM,1,1,0
+7,舌中,鮮紅,SVM,1,0,0
+7,舌右邊,鮮紅,SVM,1,0,0
+7,舌尖,鮮紅,SVM,1,0,0
+7,舌左邊,鮮紅,SVM,1,0,0
+7,舌根,鮮紅,SVM,1,0,0
+70,舌中,鮮紅,SVM,1,1,1
+70,舌右邊,鮮紅,SVM,1,1,1
+70,舌尖,鮮紅,SVM,1,1,1
+70,舌左邊,鮮紅,SVM,1,1,1
+70,舌根,鮮紅,SVM,1,1,0
+8,舌中,鮮紅,SVM,1,0,0
+8,舌右邊,鮮紅,SVM,1,0,0
+8,舌尖,鮮紅,SVM,1,0,0
+8,舌左邊,鮮紅,SVM,1,0,0
+8,舌根,鮮紅,SVM,1,0,0
+96,舌中,鮮紅,SVM,1,1,1
+96,舌右邊,鮮紅,SVM,1,1,1
+96,舌尖,鮮紅,SVM,1,1,1
+96,舌左邊,鮮紅,SVM,1,1,1
+11,舌中,鮮紅,SVM,2,0,0
+11,舌右邊,鮮紅,SVM,2,0,1
+11,舌尖,鮮紅,SVM,2,0,1
+11,舌左邊,鮮紅,SVM,2,0,1
+11,舌根,鮮紅,SVM,2,0,0
+19,舌中,鮮紅,SVM,2,0,0
+19,舌右邊,鮮紅,SVM,2,0,0
+19,舌尖,鮮紅,SVM,2,0,0
+19,舌左邊,鮮紅,SVM,2,0,0
+19,舌根,鮮紅,SVM,2,0,0
+31,舌右邊,鮮紅,SVM,2,1,1
+31,舌尖,鮮紅,SVM,2,1,1
+31,舌左邊,鮮紅,SVM,2,1,1
+32,舌右邊,鮮紅,SVM,2,1,1
+32,舌尖,鮮紅,SVM,2,1,1
+32,舌左邊,鮮紅,SVM,2,1,1
+36,舌中,鮮紅,SVM,2,0,0
+36,舌右邊,鮮紅,SVM,2,0,0
+36,舌尖,鮮紅,SVM,2,0,0
+36,舌左邊,鮮紅,SVM,2,0,0
+36,舌根,鮮紅,SVM,2,0,0
+37,舌中,鮮紅,SVM,2,0,0
+37,舌右邊,鮮紅,SVM,2,0,0
+37,舌尖,鮮紅,SVM,2,0,0
+37,舌左邊,鮮紅,SVM,2,0,0
+37,舌根,鮮紅,SVM,2,0,0
+50,舌中,鮮紅,SVM,2,0,0
+50,舌右邊,鮮紅,SVM,2,0,0
+50,舌左邊,鮮紅,SVM,2,0,0
+50,舌根,鮮紅,SVM,2,0,0
+74,舌中,鮮紅,SVM,2,0,0
+74,舌右邊,鮮紅,SVM,2,0,0
+74,舌尖,鮮紅,SVM,2,0,1
+74,舌左邊,鮮紅,SVM,2,0,0
+74,舌根,鮮紅,SVM,2,0,0
+85,舌中,鮮紅,SVM,2,1,0
+85,舌右邊,鮮紅,SVM,2,1,1
+85,舌尖,鮮紅,SVM,2,1,1
+85,舌左邊,鮮紅,SVM,2,1,0
+85,舌根,鮮紅,SVM,2,1,0
+13,舌中,鮮紅,SVM,3,0,0
+13,舌右邊,鮮紅,SVM,3,0,1
+13,舌左邊,鮮紅,SVM,3,0,1
+13,舌根,鮮紅,SVM,3,0,1
+23,舌中,鮮紅,SVM,3,0,0
+23,舌右邊,鮮紅,SVM,3,0,0
+23,舌尖,鮮紅,SVM,3,0,0
+23,舌左邊,鮮紅,SVM,3,0,0
+23,舌根,鮮紅,SVM,3,0,0
+24,舌中,鮮紅,SVM,3,0,0
+24,舌右邊,鮮紅,SVM,3,0,0
+24,舌尖,鮮紅,SVM,3,0,0
+24,舌左邊,鮮紅,SVM,3,0,0
+24,舌根,鮮紅,SVM,3,0,0
+34,舌右邊,鮮紅,SVM,3,1,0
+34,舌尖,鮮紅,SVM,3,1,0
+34,舌左邊,鮮紅,SVM,3,1,0
+35,舌右邊,鮮紅,SVM,3,1,1
+35,舌左邊,鮮紅,SVM,3,1,1
+47,舌中,鮮紅,SVM,3,0,0
+47,舌右邊,鮮紅,SVM,3,0,0
+47,舌尖,鮮紅,SVM,3,0,1
+47,舌左邊,鮮紅,SVM,3,0,1
+47,舌根,鮮紅,SVM,3,0,0
+49,舌中,鮮紅,SVM,3,0,0
+49,舌右邊,鮮紅,SVM,3,0,0
+49,舌尖,鮮紅,SVM,3,0,0
+49,舌左邊,鮮紅,SVM,3,0,0
+49,舌根,鮮紅,SVM,3,0,0
+57,舌中,鮮紅,SVM,3,0,0
+57,舌右邊,鮮紅,SVM,3,0,0
+57,舌尖,鮮紅,SVM,3,0,0
+57,舌左邊,鮮紅,SVM,3,0,0
+57,舌根,鮮紅,SVM,3,0,0
+6,舌中,鮮紅,SVM,3,0,0
+6,舌尖,鮮紅,SVM,3,0,1
+6,舌根,鮮紅,SVM,3,0,1
+87,舌中,鮮紅,SVM,3,1,1
+87,舌右邊,鮮紅,SVM,3,1,1
+87,舌尖,鮮紅,SVM,3,1,1
+87,舌左邊,鮮紅,SVM,3,1,1
+87,舌根,鮮紅,SVM,3,1,0
+17,舌中,鮮紅,SVM,4,0,0
+17,舌右邊,鮮紅,SVM,4,0,1
+17,舌尖,鮮紅,SVM,4,0,1
+17,舌左邊,鮮紅,SVM,4,0,1
+17,舌根,鮮紅,SVM,4,0,0
+27,舌中,鮮紅,SVM,4,0,0
+27,舌右邊,鮮紅,SVM,4,0,0
+27,舌尖,鮮紅,SVM,4,0,0
+27,舌左邊,鮮紅,SVM,4,0,0
+27,舌根,鮮紅,SVM,4,0,0
+29,舌中,鮮紅,SVM,4,0,0
+29,舌右邊,鮮紅,SVM,4,0,0
+29,舌尖,鮮紅,SVM,4,0,0
+29,舌左邊,鮮紅,SVM,4,0,0
+29,舌根,鮮紅,SVM,4,0,0
+51,舌右邊,鮮紅,SVM,4,1,1
+51,舌左邊,鮮紅,SVM,4,1,1
+53,舌尖,鮮紅,SVM,4,1,1
+54,舌中,鮮紅,SVM,4,0,0
+54,舌右邊,鮮紅,SVM,4,0,0
+54,舌尖,鮮紅,SVM,4,0,0
+54,舌左邊,鮮紅,SVM,4,0,0
+54,舌根,鮮紅,SVM,4,0,0
+56,舌中,鮮紅,SVM,4,0,0
+56,舌右邊,鮮紅,SVM,4,0,0
+56,舌尖,鮮紅,SVM,4,0,0
+56,舌左邊,鮮紅,SVM,4,0,0
+56,舌根,鮮紅,SVM,4,0,0
+59,舌中,鮮紅,SVM,4,1,0
+59,舌右邊,鮮紅,SVM,4,1,0
+59,舌尖,鮮紅,SVM,4,1,1
+59,舌左邊,鮮紅,SVM,4,1,0
+72,舌中,鮮紅,SVM,4,1,0
+72,舌右邊,鮮紅,SVM,4,1,1
+72,舌尖,鮮紅,SVM,4,1,1
+72,舌左邊,鮮紅,SVM,4,1,1
+9,舌中,鮮紅,SVM,4,0,0
+9,舌右邊,鮮紅,SVM,4,0,0
+9,舌左邊,鮮紅,SVM,4,0,0
+9,舌根,鮮紅,SVM,4,0,0
+10,舌中,鮮紅,SVM,5,1,0
+10,舌右邊,鮮紅,SVM,5,1,1
+10,舌尖,鮮紅,SVM,5,1,1
+10,舌左邊,鮮紅,SVM,5,1,0
+10,舌根,鮮紅,SVM,5,1,0
+2,舌中,鮮紅,SVM,5,0,0
+2,舌右邊,鮮紅,SVM,5,1,0
+2,舌尖,鮮紅,SVM,5,0,1
+2,舌左邊,鮮紅,SVM,5,1,1
+2,舌根,鮮紅,SVM,5,0,0
+20,舌中,鮮紅,SVM,5,0,0
+20,舌右邊,鮮紅,SVM,5,0,0
+20,舌尖,鮮紅,SVM,5,0,0
+20,舌左邊,鮮紅,SVM,5,0,0
+20,舌根,鮮紅,SVM,5,0,0
+26,舌中,鮮紅,SVM,5,0,0
+26,舌尖,鮮紅,SVM,5,0,1
+26,舌根,鮮紅,SVM,5,0,0
+38,舌中,鮮紅,SVM,5,0,0
+38,舌右邊,鮮紅,SVM,5,0,0
+38,舌尖,鮮紅,SVM,5,0,0
+38,舌左邊,鮮紅,SVM,5,0,0
+38,舌根,鮮紅,SVM,5,0,0
+40,舌右邊,鮮紅,SVM,5,1,1
+40,舌左邊,鮮紅,SVM,5,1,1
+41,舌中,鮮紅,SVM,5,0,0
+41,舌右邊,鮮紅,SVM,5,0,0
+41,舌尖,鮮紅,SVM,5,0,0
+41,舌左邊,鮮紅,SVM,5,0,0
+41,舌根,鮮紅,SVM,5,0,0
+42,舌右邊,鮮紅,SVM,5,1,1
+42,舌尖,鮮紅,SVM,5,1,0
+42,舌左邊,鮮紅,SVM,5,1,0
+5,舌中,鮮紅,SVM,5,0,0
+5,舌右邊,鮮紅,SVM,5,0,0
+5,舌尖,鮮紅,SVM,5,0,0
+5,舌左邊,鮮紅,SVM,5,0,0
+5,舌根,鮮紅,SVM,5,0,0
+55,舌中,鮮紅,SVM,5,0,0
+55,舌右邊,鮮紅,SVM,5,0,1
+55,舌尖,鮮紅,SVM,5,0,0
+55,舌左邊,鮮紅,SVM,5,0,1
+55,舌根,鮮紅,SVM,5,0,0
+64,舌中,鮮紅,SVM,5,0,0
+64,舌右邊,鮮紅,SVM,5,0,1
+64,舌左邊,鮮紅,SVM,5,0,1
+64,舌根,鮮紅,SVM,5,0,0
+30,舌中,鮮紅,Random Forest,1,0,0
+30,舌右邊,鮮紅,Random Forest,1,0,0
+30,舌尖,鮮紅,Random Forest,1,0,0
+30,舌左邊,鮮紅,Random Forest,1,0,0
+30,舌根,鮮紅,Random Forest,1,0,0
+45,舌中,鮮紅,Random Forest,1,0,0
+45,舌右邊,鮮紅,Random Forest,1,0,0
+45,舌尖,鮮紅,Random Forest,1,0,0
+45,舌左邊,鮮紅,Random Forest,1,0,0
+45,舌根,鮮紅,Random Forest,1,0,0
+46,舌中,鮮紅,Random Forest,1,0,0
+46,舌右邊,鮮紅,Random Forest,1,0,0
+46,舌左邊,鮮紅,Random Forest,1,0,0
+46,舌根,鮮紅,Random Forest,1,0,0
+48,舌尖,鮮紅,Random Forest,1,1,1
+58,舌中,鮮紅,Random Forest,1,0,0
+58,舌右邊,鮮紅,Random Forest,1,0,0
+58,舌尖,鮮紅,Random Forest,1,0,0
+58,舌左邊,鮮紅,Random Forest,1,0,0
+58,舌根,鮮紅,Random Forest,1,0,0
+60,舌尖,鮮紅,Random Forest,1,1,0
+7,舌中,鮮紅,Random Forest,1,0,0
+7,舌右邊,鮮紅,Random Forest,1,0,0
+7,舌尖,鮮紅,Random Forest,1,0,0
+7,舌左邊,鮮紅,Random Forest,1,0,0
+7,舌根,鮮紅,Random Forest,1,0,0
+70,舌中,鮮紅,Random Forest,1,1,0
+70,舌右邊,鮮紅,Random Forest,1,1,1
+70,舌尖,鮮紅,Random Forest,1,1,1
+70,舌左邊,鮮紅,Random Forest,1,1,1
+70,舌根,鮮紅,Random Forest,1,1,0
+8,舌中,鮮紅,Random Forest,1,0,0
+8,舌右邊,鮮紅,Random Forest,1,0,0
+8,舌尖,鮮紅,Random Forest,1,0,0
+8,舌左邊,鮮紅,Random Forest,1,0,0
+8,舌根,鮮紅,Random Forest,1,0,0
+96,舌中,鮮紅,Random Forest,1,1,0
+96,舌右邊,鮮紅,Random Forest,1,1,1
+96,舌尖,鮮紅,Random Forest,1,1,1
+96,舌左邊,鮮紅,Random Forest,1,1,1
+11,舌中,鮮紅,Random Forest,2,0,0
+11,舌右邊,鮮紅,Random Forest,2,0,1
+11,舌尖,鮮紅,Random Forest,2,0,1
+11,舌左邊,鮮紅,Random Forest,2,0,1
+11,舌根,鮮紅,Random Forest,2,0,1
+19,舌中,鮮紅,Random Forest,2,0,0
+19,舌右邊,鮮紅,Random Forest,2,0,0
+19,舌尖,鮮紅,Random Forest,2,0,0
+19,舌左邊,鮮紅,Random Forest,2,0,0
+19,舌根,鮮紅,Random Forest,2,0,0
+31,舌右邊,鮮紅,Random Forest,2,1,1
+31,舌尖,鮮紅,Random Forest,2,1,0
+31,舌左邊,鮮紅,Random Forest,2,1,0
+32,舌右邊,鮮紅,Random Forest,2,1,1
+32,舌尖,鮮紅,Random Forest,2,1,0
+32,舌左邊,鮮紅,Random Forest,2,1,1
+36,舌中,鮮紅,Random Forest,2,0,0
+36,舌右邊,鮮紅,Random Forest,2,0,0
+36,舌尖,鮮紅,Random Forest,2,0,0
+36,舌左邊,鮮紅,Random Forest,2,0,0
+36,舌根,鮮紅,Random Forest,2,0,0
+37,舌中,鮮紅,Random Forest,2,0,0
+37,舌右邊,鮮紅,Random Forest,2,0,0
+37,舌尖,鮮紅,Random Forest,2,0,0
+37,舌左邊,鮮紅,Random Forest,2,0,0
+37,舌根,鮮紅,Random Forest,2,0,0
+50,舌中,鮮紅,Random Forest,2,0,0
+50,舌右邊,鮮紅,Random Forest,2,0,0
+50,舌左邊,鮮紅,Random Forest,2,0,0
+50,舌根,鮮紅,Random Forest,2,0,0
+74,舌中,鮮紅,Random Forest,2,0,0
+74,舌右邊,鮮紅,Random Forest,2,0,0
+74,舌尖,鮮紅,Random Forest,2,0,0
+74,舌左邊,鮮紅,Random Forest,2,0,0
+74,舌根,鮮紅,Random Forest,2,0,0
+85,舌中,鮮紅,Random Forest,2,1,0
+85,舌右邊,鮮紅,Random Forest,2,1,1
+85,舌尖,鮮紅,Random Forest,2,1,1
+85,舌左邊,鮮紅,Random Forest,2,1,0
+85,舌根,鮮紅,Random Forest,2,1,0
+13,舌中,鮮紅,Random Forest,3,0,0
+13,舌右邊,鮮紅,Random Forest,3,0,1
+13,舌左邊,鮮紅,Random Forest,3,0,1
+13,舌根,鮮紅,Random Forest,3,0,0
+23,舌中,鮮紅,Random Forest,3,0,0
+23,舌右邊,鮮紅,Random Forest,3,0,0
+23,舌尖,鮮紅,Random Forest,3,0,0
+23,舌左邊,鮮紅,Random Forest,3,0,0
+23,舌根,鮮紅,Random Forest,3,0,0
+24,舌中,鮮紅,Random Forest,3,0,0
+24,舌右邊,鮮紅,Random Forest,3,0,0
+24,舌尖,鮮紅,Random Forest,3,0,0
+24,舌左邊,鮮紅,Random Forest,3,0,1
+24,舌根,鮮紅,Random Forest,3,0,0
+34,舌右邊,鮮紅,Random Forest,3,1,0
+34,舌尖,鮮紅,Random Forest,3,1,0
+34,舌左邊,鮮紅,Random Forest,3,1,0
+35,舌右邊,鮮紅,Random Forest,3,1,1
+35,舌左邊,鮮紅,Random Forest,3,1,1
+47,舌中,鮮紅,Random Forest,3,0,0
+47,舌右邊,鮮紅,Random Forest,3,0,1
+47,舌尖,鮮紅,Random Forest,3,0,1
+47,舌左邊,鮮紅,Random Forest,3,0,1
+47,舌根,鮮紅,Random Forest,3,0,1
+49,舌中,鮮紅,Random Forest,3,0,0
+49,舌右邊,鮮紅,Random Forest,3,0,0
+49,舌尖,鮮紅,Random Forest,3,0,0
+49,舌左邊,鮮紅,Random Forest,3,0,0
+49,舌根,鮮紅,Random Forest,3,0,0
+57,舌中,鮮紅,Random Forest,3,0,0
+57,舌右邊,鮮紅,Random Forest,3,0,0
+57,舌尖,鮮紅,Random Forest,3,0,0
+57,舌左邊,鮮紅,Random Forest,3,0,0
+57,舌根,鮮紅,Random Forest,3,0,0
+6,舌中,鮮紅,Random Forest,3,0,0
+6,舌尖,鮮紅,Random Forest,3,0,0
+6,舌根,鮮紅,Random Forest,3,0,1
+87,舌中,鮮紅,Random Forest,3,1,1
+87,舌右邊,鮮紅,Random Forest,3,1,1
+87,舌尖,鮮紅,Random Forest,3,1,1
+87,舌左邊,鮮紅,Random Forest,3,1,1
+87,舌根,鮮紅,Random Forest,3,1,0
+17,舌中,鮮紅,Random Forest,4,0,0
+17,舌右邊,鮮紅,Random Forest,4,0,1
+17,舌尖,鮮紅,Random Forest,4,0,1
+17,舌左邊,鮮紅,Random Forest,4,0,1
+17,舌根,鮮紅,Random Forest,4,0,0
+27,舌中,鮮紅,Random Forest,4,0,0
+27,舌右邊,鮮紅,Random Forest,4,0,0
+27,舌尖,鮮紅,Random Forest,4,0,0
+27,舌左邊,鮮紅,Random Forest,4,0,0
+27,舌根,鮮紅,Random Forest,4,0,0
+29,舌中,鮮紅,Random Forest,4,0,0
+29,舌右邊,鮮紅,Random Forest,4,0,0
+29,舌尖,鮮紅,Random Forest,4,0,0
+29,舌左邊,鮮紅,Random Forest,4,0,0
+29,舌根,鮮紅,Random Forest,4,0,0
+51,舌右邊,鮮紅,Random Forest,4,1,1
+51,舌左邊,鮮紅,Random Forest,4,1,1
+53,舌尖,鮮紅,Random Forest,4,1,1
+54,舌中,鮮紅,Random Forest,4,0,0
+54,舌右邊,鮮紅,Random Forest,4,0,0
+54,舌尖,鮮紅,Random Forest,4,0,0
+54,舌左邊,鮮紅,Random Forest,4,0,0
+54,舌根,鮮紅,Random Forest,4,0,0
+56,舌中,鮮紅,Random Forest,4,0,0
+56,舌右邊,鮮紅,Random Forest,4,0,1
+56,舌尖,鮮紅,Random Forest,4,0,0
+56,舌左邊,鮮紅,Random Forest,4,0,0
+56,舌根,鮮紅,Random Forest,4,0,0
+59,舌中,鮮紅,Random Forest,4,1,0
+59,舌右邊,鮮紅,Random Forest,4,1,0
+59,舌尖,鮮紅,Random Forest,4,1,1
+59,舌左邊,鮮紅,Random Forest,4,1,0
+72,舌中,鮮紅,Random Forest,4,1,1
+72,舌右邊,鮮紅,Random Forest,4,1,1
+72,舌尖,鮮紅,Random Forest,4,1,1
+72,舌左邊,鮮紅,Random Forest,4,1,1
+9,舌中,鮮紅,Random Forest,4,0,0
+9,舌右邊,鮮紅,Random Forest,4,0,0
+9,舌左邊,鮮紅,Random Forest,4,0,0
+9,舌根,鮮紅,Random Forest,4,0,0
+10,舌中,鮮紅,Random Forest,5,1,0
+10,舌右邊,鮮紅,Random Forest,5,1,1
+10,舌尖,鮮紅,Random Forest,5,1,1
+10,舌左邊,鮮紅,Random Forest,5,1,1
+10,舌根,鮮紅,Random Forest,5,1,0
+2,舌中,鮮紅,Random Forest,5,0,0
+2,舌右邊,鮮紅,Random Forest,5,1,1
+2,舌尖,鮮紅,Random Forest,5,0,1
+2,舌左邊,鮮紅,Random Forest,5,1,1
+2,舌根,鮮紅,Random Forest,5,0,1
+20,舌中,鮮紅,Random Forest,5,0,0
+20,舌右邊,鮮紅,Random Forest,5,0,0
+20,舌尖,鮮紅,Random Forest,5,0,0
+20,舌左邊,鮮紅,Random Forest,5,0,0
+20,舌根,鮮紅,Random Forest,5,0,0
+26,舌中,鮮紅,Random Forest,5,0,0
+26,舌尖,鮮紅,Random Forest,5,0,1
+26,舌根,鮮紅,Random Forest,5,0,0
+38,舌中,鮮紅,Random Forest,5,0,0
+38,舌右邊,鮮紅,Random Forest,5,0,0
+38,舌尖,鮮紅,Random Forest,5,0,0
+38,舌左邊,鮮紅,Random Forest,5,0,0
+38,舌根,鮮紅,Random Forest,5,0,0
+40,舌右邊,鮮紅,Random Forest,5,1,1
+40,舌左邊,鮮紅,Random Forest,5,1,1
+41,舌中,鮮紅,Random Forest,5,0,0
+41,舌右邊,鮮紅,Random Forest,5,0,0
+41,舌尖,鮮紅,Random Forest,5,0,0
+41,舌左邊,鮮紅,Random Forest,5,0,0
+41,舌根,鮮紅,Random Forest,5,0,0
+42,舌右邊,鮮紅,Random Forest,5,1,1
+42,舌尖,鮮紅,Random Forest,5,1,0
+42,舌左邊,鮮紅,Random Forest,5,1,0
+5,舌中,鮮紅,Random Forest,5,0,0
+5,舌右邊,鮮紅,Random Forest,5,0,0
+5,舌尖,鮮紅,Random Forest,5,0,0
+5,舌左邊,鮮紅,Random Forest,5,0,0
+5,舌根,鮮紅,Random Forest,5,0,0
+55,舌中,鮮紅,Random Forest,5,0,0
+55,舌右邊,鮮紅,Random Forest,5,0,1
+55,舌尖,鮮紅,Random Forest,5,0,0
+55,舌左邊,鮮紅,Random Forest,5,0,0
+55,舌根,鮮紅,Random Forest,5,0,0
+64,舌中,鮮紅,Random Forest,5,0,0
+64,舌右邊,鮮紅,Random Forest,5,0,0
+64,舌左邊,鮮紅,Random Forest,5,0,0
+64,舌根,鮮紅,Random Forest,5,0,0
+10,舌右邊,暗紅,SVM,1,0,1
+10,舌尖,暗紅,SVM,1,0,1
+10,舌左邊,暗紅,SVM,1,0,1
+23,舌中,暗紅,SVM,1,0,0
+23,舌右邊,暗紅,SVM,1,0,0
+23,舌尖,暗紅,SVM,1,0,0
+23,舌左邊,暗紅,SVM,1,0,0
+23,舌根,暗紅,SVM,1,0,1
+41,舌中,暗紅,SVM,1,1,0
+41,舌右邊,暗紅,SVM,1,1,0
+41,舌尖,暗紅,SVM,1,1,0
+41,舌左邊,暗紅,SVM,1,1,0
+44,舌中,暗紅,SVM,1,0,0
+44,舌右邊,暗紅,SVM,1,0,0
+44,舌尖,暗紅,SVM,1,0,0
+44,舌左邊,暗紅,SVM,1,0,0
+45,舌中,暗紅,SVM,1,1,0
+45,舌右邊,暗紅,SVM,1,0,0
+45,舌尖,暗紅,SVM,1,0,0
+45,舌左邊,暗紅,SVM,1,0,0
+45,舌根,暗紅,SVM,1,1,1
+5,舌中,暗紅,SVM,1,0,0
+5,舌右邊,暗紅,SVM,1,0,0
+5,舌尖,暗紅,SVM,1,0,1
+5,舌左邊,暗紅,SVM,1,0,1
+5,舌根,暗紅,SVM,1,0,1
+53,舌中,暗紅,SVM,1,0,0
+53,舌右邊,暗紅,SVM,1,0,0
+53,舌尖,暗紅,SVM,1,0,0
+53,舌左邊,暗紅,SVM,1,0,0
+53,舌根,暗紅,SVM,1,0,0
+57,舌中,暗紅,SVM,1,1,0
+57,舌右邊,暗紅,SVM,1,1,0
+57,舌尖,暗紅,SVM,1,1,0
+57,舌左邊,暗紅,SVM,1,1,0
+57,舌根,暗紅,SVM,1,1,0
+70,舌中,暗紅,SVM,1,0,0
+70,舌右邊,暗紅,SVM,1,0,0
+70,舌尖,暗紅,SVM,1,0,0
+70,舌左邊,暗紅,SVM,1,0,0
+70,舌根,暗紅,SVM,1,0,0
+8,舌中,暗紅,SVM,1,0,0
+8,舌右邊,暗紅,SVM,1,0,1
+8,舌尖,暗紅,SVM,1,0,1
+8,舌左邊,暗紅,SVM,1,0,0
+8,舌根,暗紅,SVM,1,0,1
+11,舌中,暗紅,SVM,2,1,1
+11,舌右邊,暗紅,SVM,2,1,1
+11,舌尖,暗紅,SVM,2,1,1
+11,舌左邊,暗紅,SVM,2,1,0
+11,舌根,暗紅,SVM,2,1,0
+19,舌中,暗紅,SVM,2,0,0
+19,舌右邊,暗紅,SVM,2,0,0
+19,舌尖,暗紅,SVM,2,0,0
+19,舌左邊,暗紅,SVM,2,0,0
+19,舌根,暗紅,SVM,2,0,1
+24,舌中,暗紅,SVM,2,0,0
+24,舌根,暗紅,SVM,2,0,1
+29,舌中,暗紅,SVM,2,0,0
+29,舌尖,暗紅,SVM,2,0,0
+32,舌中,暗紅,SVM,2,0,0
+32,舌右邊,暗紅,SVM,2,0,0
+32,舌尖,暗紅,SVM,2,0,0
+32,舌左邊,暗紅,SVM,2,0,0
+32,舌根,暗紅,SVM,2,0,1
+34,舌中,暗紅,SVM,2,0,0
+34,舌右邊,暗紅,SVM,2,0,1
+34,舌尖,暗紅,SVM,2,0,0
+34,舌左邊,暗紅,SVM,2,0,1
+48,舌中,暗紅,SVM,2,1,0
+48,舌右邊,暗紅,SVM,2,1,0
+48,舌左邊,暗紅,SVM,2,1,0
+48,舌根,暗紅,SVM,2,1,0
+54,舌中,暗紅,SVM,2,0,0
+54,舌右邊,暗紅,SVM,2,0,1
+54,舌尖,暗紅,SVM,2,0,1
+54,舌左邊,暗紅,SVM,2,0,0
+54,舌根,暗紅,SVM,2,0,1
+55,舌中,暗紅,SVM,2,0,0
+55,舌右邊,暗紅,SVM,2,0,0
+55,舌尖,暗紅,SVM,2,0,0
+55,舌左邊,暗紅,SVM,2,0,0
+55,舌根,暗紅,SVM,2,0,1
+58,舌根,暗紅,SVM,2,1,0
+9,舌中,暗紅,SVM,2,0,0
+9,舌右邊,暗紅,SVM,2,0,0
+9,舌尖,暗紅,SVM,2,0,0
+9,舌左邊,暗紅,SVM,2,0,0
+9,舌根,暗紅,SVM,2,0,0
+13,舌中,暗紅,SVM,3,0,0
+13,舌右邊,暗紅,SVM,3,0,0
+13,舌尖,暗紅,SVM,3,0,0
+13,舌左邊,暗紅,SVM,3,0,0
+13,舌根,暗紅,SVM,3,0,1
+26,舌中,暗紅,SVM,3,0,0
+26,舌右邊,暗紅,SVM,3,0,0
+26,舌尖,暗紅,SVM,3,0,1
+26,舌左邊,暗紅,SVM,3,0,0
+26,舌根,暗紅,SVM,3,0,1
+31,舌右邊,暗紅,SVM,3,0,0
+31,舌尖,暗紅,SVM,3,0,0
+31,舌左邊,暗紅,SVM,3,0,0
+35,舌中,暗紅,SVM,3,1,0
+35,舌尖,暗紅,SVM,3,0,1
+35,舌根,暗紅,SVM,3,1,1
+39,舌尖,暗紅,SVM,3,0,0
+39,舌左邊,暗紅,SVM,3,0,0
+51,舌中,暗紅,SVM,3,0,0
+51,舌右邊,暗紅,SVM,3,0,0
+51,舌尖,暗紅,SVM,3,0,0
+51,舌左邊,暗紅,SVM,3,0,0
+51,舌根,暗紅,SVM,3,0,0
+56,舌中,暗紅,SVM,3,1,0
+56,舌右邊,暗紅,SVM,3,1,0
+56,舌左邊,暗紅,SVM,3,1,0
+56,舌根,暗紅,SVM,3,1,0
+60,舌中,暗紅,SVM,3,0,0
+60,舌右邊,暗紅,SVM,3,0,0
+60,舌尖,暗紅,SVM,3,0,0
+60,舌左邊,暗紅,SVM,3,0,0
+60,舌根,暗紅,SVM,3,0,1
+7,舌中,暗紅,SVM,3,0,0
+7,舌右邊,暗紅,SVM,3,0,0
+7,舌尖,暗紅,SVM,3,0,0
+7,舌左邊,暗紅,SVM,3,0,0
+7,舌根,暗紅,SVM,3,0,1
+72,舌中,暗紅,SVM,3,0,1
+72,舌右邊,暗紅,SVM,3,0,1
+72,舌尖,暗紅,SVM,3,0,0
+72,舌左邊,暗紅,SVM,3,0,1
+74,舌中,暗紅,SVM,3,1,0
+74,舌右邊,暗紅,SVM,3,1,0
+74,舌左邊,暗紅,SVM,3,1,1
+74,舌根,暗紅,SVM,3,1,1
+17,舌右邊,暗紅,SVM,4,1,0
+17,舌左邊,暗紅,SVM,4,1,0
+17,舌根,暗紅,SVM,4,1,1
+20,舌中,暗紅,SVM,4,0,1
+20,舌右邊,暗紅,SVM,4,0,1
+20,舌尖,暗紅,SVM,4,0,1
+20,舌左邊,暗紅,SVM,4,0,1
+20,舌根,暗紅,SVM,4,0,1
+27,舌中,暗紅,SVM,4,0,0
+27,舌右邊,暗紅,SVM,4,0,0
+27,舌尖,暗紅,SVM,4,0,0
+27,舌左邊,暗紅,SVM,4,0,0
+27,舌根,暗紅,SVM,4,0,0
+30,舌中,暗紅,SVM,4,0,1
+30,舌尖,暗紅,SVM,4,0,1
+30,舌根,暗紅,SVM,4,0,1
+46,舌中,暗紅,SVM,4,0,0
+46,舌右邊,暗紅,SVM,4,0,1
+46,舌尖,暗紅,SVM,4,0,0
+46,舌左邊,暗紅,SVM,4,0,0
+47,舌中,暗紅,SVM,4,1,0
+47,舌右邊,暗紅,SVM,4,1,0
+47,舌尖,暗紅,SVM,4,1,0
+47,舌左邊,暗紅,SVM,4,1,0
+47,舌根,暗紅,SVM,4,1,1
+49,舌中,暗紅,SVM,4,0,1
+49,舌右邊,暗紅,SVM,4,0,1
+49,舌尖,暗紅,SVM,4,0,1
+49,舌左邊,暗紅,SVM,4,0,1
+49,舌根,暗紅,SVM,4,0,1
+52,舌中,暗紅,SVM,4,0,0
+52,舌右邊,暗紅,SVM,4,0,0
+52,舌尖,暗紅,SVM,4,0,0
+52,舌左邊,暗紅,SVM,4,0,0
+52,舌根,暗紅,SVM,4,0,1
+64,舌中,暗紅,SVM,4,1,1
+68,舌右邊,暗紅,SVM,4,1,1
+68,舌左邊,暗紅,SVM,4,1,1
+68,舌根,暗紅,SVM,4,0,1
+87,舌中,暗紅,SVM,4,0,0
+87,舌右邊,暗紅,SVM,4,0,0
+87,舌尖,暗紅,SVM,4,0,0
+87,舌左邊,暗紅,SVM,4,0,0
+87,舌根,暗紅,SVM,4,0,0
+2,舌中,暗紅,SVM,5,0,0
+2,舌右邊,暗紅,SVM,5,0,1
+2,舌左邊,暗紅,SVM,5,0,0
+2,舌根,暗紅,SVM,5,0,0
+36,舌中,暗紅,SVM,5,0,0
+36,舌右邊,暗紅,SVM,5,0,0
+36,舌尖,暗紅,SVM,5,0,0
+36,舌左邊,暗紅,SVM,5,0,0
+36,舌根,暗紅,SVM,5,0,1
+37,舌中,暗紅,SVM,5,0,0
+37,舌右邊,暗紅,SVM,5,0,1
+37,舌尖,暗紅,SVM,5,0,0
+37,舌左邊,暗紅,SVM,5,0,0
+37,舌根,暗紅,SVM,5,0,1
+38,舌中,暗紅,SVM,5,0,0
+38,舌右邊,暗紅,SVM,5,0,1
+38,舌尖,暗紅,SVM,5,0,0
+38,舌左邊,暗紅,SVM,5,0,1
+40,舌根,暗紅,SVM,5,1,1
+42,舌尖,暗紅,SVM,5,0,0
+50,舌中,暗紅,SVM,5,1,0
+50,舌右邊,暗紅,SVM,5,1,0
+50,舌左邊,暗紅,SVM,5,1,0
+50,舌根,暗紅,SVM,5,1,0
+59,舌中,暗紅,SVM,5,0,0
+59,舌右邊,暗紅,SVM,5,0,0
+59,舌尖,暗紅,SVM,5,0,0
+59,舌左邊,暗紅,SVM,5,0,0
+59,舌根,暗紅,SVM,5,0,1
+6,舌中,暗紅,SVM,5,1,0
+6,舌右邊,暗紅,SVM,5,1,1
+6,舌尖,暗紅,SVM,5,1,1
+6,舌左邊,暗紅,SVM,5,1,1
+6,舌根,暗紅,SVM,5,1,1
+85,舌中,暗紅,SVM,5,0,0
+85,舌右邊,暗紅,SVM,5,0,0
+85,舌尖,暗紅,SVM,5,0,0
+85,舌左邊,暗紅,SVM,5,0,0
+85,舌根,暗紅,SVM,5,0,1
+96,舌中,暗紅,SVM,5,0,0
+96,舌右邊,暗紅,SVM,5,0,0
+96,舌尖,暗紅,SVM,5,0,0
+96,舌左邊,暗紅,SVM,5,0,0
+10,舌右邊,暗紅,Random Forest,1,0,1
+10,舌尖,暗紅,Random Forest,1,0,1
+10,舌左邊,暗紅,Random Forest,1,0,1
+23,舌中,暗紅,Random Forest,1,0,0
+23,舌右邊,暗紅,Random Forest,1,0,0
+23,舌尖,暗紅,Random Forest,1,0,0
+23,舌左邊,暗紅,Random Forest,1,0,0
+23,舌根,暗紅,Random Forest,1,0,0
+41,舌中,暗紅,Random Forest,1,1,0
+41,舌右邊,暗紅,Random Forest,1,1,0
+41,舌尖,暗紅,Random Forest,1,1,0
+41,舌左邊,暗紅,Random Forest,1,1,0
+44,舌中,暗紅,Random Forest,1,0,0
+44,舌右邊,暗紅,Random Forest,1,0,0
+44,舌尖,暗紅,Random Forest,1,0,0
+44,舌左邊,暗紅,Random Forest,1,0,0
+45,舌中,暗紅,Random Forest,1,1,0
+45,舌右邊,暗紅,Random Forest,1,0,0
+45,舌尖,暗紅,Random Forest,1,0,0
+45,舌左邊,暗紅,Random Forest,1,0,0
+45,舌根,暗紅,Random Forest,1,1,0
+5,舌中,暗紅,Random Forest,1,0,0
+5,舌右邊,暗紅,Random Forest,1,0,0
+5,舌尖,暗紅,Random Forest,1,0,1
+5,舌左邊,暗紅,Random Forest,1,0,1
+5,舌根,暗紅,Random Forest,1,0,1
+53,舌中,暗紅,Random Forest,1,0,0
+53,舌右邊,暗紅,Random Forest,1,0,0
+53,舌尖,暗紅,Random Forest,1,0,0
+53,舌左邊,暗紅,Random Forest,1,0,0
+53,舌根,暗紅,Random Forest,1,0,0
+57,舌中,暗紅,Random Forest,1,1,0
+57,舌右邊,暗紅,Random Forest,1,1,0
+57,舌尖,暗紅,Random Forest,1,1,0
+57,舌左邊,暗紅,Random Forest,1,1,0
+57,舌根,暗紅,Random Forest,1,1,0
+70,舌中,暗紅,Random Forest,1,0,1
+70,舌右邊,暗紅,Random Forest,1,0,0
+70,舌尖,暗紅,Random Forest,1,0,0
+70,舌左邊,暗紅,Random Forest,1,0,0
+70,舌根,暗紅,Random Forest,1,0,0
+8,舌中,暗紅,Random Forest,1,0,0
+8,舌右邊,暗紅,Random Forest,1,0,1
+8,舌尖,暗紅,Random Forest,1,0,0
+8,舌左邊,暗紅,Random Forest,1,0,0
+8,舌根,暗紅,Random Forest,1,0,0
+11,舌中,暗紅,Random Forest,2,1,1
+11,舌右邊,暗紅,Random Forest,2,1,0
+11,舌尖,暗紅,Random Forest,2,1,0
+11,舌左邊,暗紅,Random Forest,2,1,0
+11,舌根,暗紅,Random Forest,2,1,0
+19,舌中,暗紅,Random Forest,2,0,0
+19,舌右邊,暗紅,Random Forest,2,0,0
+19,舌尖,暗紅,Random Forest,2,0,0
+19,舌左邊,暗紅,Random Forest,2,0,0
+19,舌根,暗紅,Random Forest,2,0,0
+24,舌中,暗紅,Random Forest,2,0,0
+24,舌根,暗紅,Random Forest,2,0,0
+29,舌中,暗紅,Random Forest,2,0,0
+29,舌尖,暗紅,Random Forest,2,0,0
+32,舌中,暗紅,Random Forest,2,0,0
+32,舌右邊,暗紅,Random Forest,2,0,0
+32,舌尖,暗紅,Random Forest,2,0,0
+32,舌左邊,暗紅,Random Forest,2,0,0
+32,舌根,暗紅,Random Forest,2,0,1
+34,舌中,暗紅,Random Forest,2,0,1
+34,舌右邊,暗紅,Random Forest,2,0,0
+34,舌尖,暗紅,Random Forest,2,0,0
+34,舌左邊,暗紅,Random Forest,2,0,1
+48,舌中,暗紅,Random Forest,2,1,0
+48,舌右邊,暗紅,Random Forest,2,1,0
+48,舌左邊,暗紅,Random Forest,2,1,0
+48,舌根,暗紅,Random Forest,2,1,0
+54,舌中,暗紅,Random Forest,2,0,0
+54,舌右邊,暗紅,Random Forest,2,0,1
+54,舌尖,暗紅,Random Forest,2,0,0
+54,舌左邊,暗紅,Random Forest,2,0,0
+54,舌根,暗紅,Random Forest,2,0,0
+55,舌中,暗紅,Random Forest,2,0,0
+55,舌右邊,暗紅,Random Forest,2,0,0
+55,舌尖,暗紅,Random Forest,2,0,0
+55,舌左邊,暗紅,Random Forest,2,0,0
+55,舌根,暗紅,Random Forest,2,0,0
+58,舌根,暗紅,Random Forest,2,1,0
+9,舌中,暗紅,Random Forest,2,0,0
+9,舌右邊,暗紅,Random Forest,2,0,0
+9,舌尖,暗紅,Random Forest,2,0,0
+9,舌左邊,暗紅,Random Forest,2,0,0
+9,舌根,暗紅,Random Forest,2,0,0
+13,舌中,暗紅,Random Forest,3,0,0
+13,舌右邊,暗紅,Random Forest,3,0,0
+13,舌尖,暗紅,Random Forest,3,0,0
+13,舌左邊,暗紅,Random Forest,3,0,0
+13,舌根,暗紅,Random Forest,3,0,0
+26,舌中,暗紅,Random Forest,3,0,0
+26,舌右邊,暗紅,Random Forest,3,0,0
+26,舌尖,暗紅,Random Forest,3,0,0
+26,舌左邊,暗紅,Random Forest,3,0,0
+26,舌根,暗紅,Random Forest,3,0,1
+31,舌右邊,暗紅,Random Forest,3,0,0
+31,舌尖,暗紅,Random Forest,3,0,0
+31,舌左邊,暗紅,Random Forest,3,0,0
+35,舌中,暗紅,Random Forest,3,1,0
+35,舌尖,暗紅,Random Forest,3,0,0
+35,舌根,暗紅,Random Forest,3,1,1
+39,舌尖,暗紅,Random Forest,3,0,0
+39,舌左邊,暗紅,Random Forest,3,0,0
+51,舌中,暗紅,Random Forest,3,0,0
+51,舌右邊,暗紅,Random Forest,3,0,1
+51,舌尖,暗紅,Random Forest,3,0,1
+51,舌左邊,暗紅,Random Forest,3,0,1
+51,舌根,暗紅,Random Forest,3,0,0
+56,舌中,暗紅,Random Forest,3,1,0
+56,舌右邊,暗紅,Random Forest,3,1,0
+56,舌左邊,暗紅,Random Forest,3,1,0
+56,舌根,暗紅,Random Forest,3,1,0
+60,舌中,暗紅,Random Forest,3,0,0
+60,舌右邊,暗紅,Random Forest,3,0,0
+60,舌尖,暗紅,Random Forest,3,0,0
+60,舌左邊,暗紅,Random Forest,3,0,0
+60,舌根,暗紅,Random Forest,3,0,1
+7,舌中,暗紅,Random Forest,3,0,0
+7,舌右邊,暗紅,Random Forest,3,0,0
+7,舌尖,暗紅,Random Forest,3,0,0
+7,舌左邊,暗紅,Random Forest,3,0,0
+7,舌根,暗紅,Random Forest,3,0,0
+72,舌中,暗紅,Random Forest,3,0,1
+72,舌右邊,暗紅,Random Forest,3,0,1
+72,舌尖,暗紅,Random Forest,3,0,1
+72,舌左邊,暗紅,Random Forest,3,0,1
+74,舌中,暗紅,Random Forest,3,1,0
+74,舌右邊,暗紅,Random Forest,3,1,0
+74,舌左邊,暗紅,Random Forest,3,1,1
+74,舌根,暗紅,Random Forest,3,1,0
+17,舌右邊,暗紅,Random Forest,4,1,0
+17,舌左邊,暗紅,Random Forest,4,1,0
+17,舌根,暗紅,Random Forest,4,1,0
+20,舌中,暗紅,Random Forest,4,0,1
+20,舌右邊,暗紅,Random Forest,4,0,1
+20,舌尖,暗紅,Random Forest,4,0,1
+20,舌左邊,暗紅,Random Forest,4,0,1
+20,舌根,暗紅,Random Forest,4,0,1
+27,舌中,暗紅,Random Forest,4,0,0
+27,舌右邊,暗紅,Random Forest,4,0,0
+27,舌尖,暗紅,Random Forest,4,0,0
+27,舌左邊,暗紅,Random Forest,4,0,0
+27,舌根,暗紅,Random Forest,4,0,0
+30,舌中,暗紅,Random Forest,4,0,1
+30,舌尖,暗紅,Random Forest,4,0,0
+30,舌根,暗紅,Random Forest,4,0,0
+46,舌中,暗紅,Random Forest,4,0,0
+46,舌右邊,暗紅,Random Forest,4,0,1
+46,舌尖,暗紅,Random Forest,4,0,1
+46,舌左邊,暗紅,Random Forest,4,0,0
+47,舌中,暗紅,Random Forest,4,1,0
+47,舌右邊,暗紅,Random Forest,4,1,0
+47,舌尖,暗紅,Random Forest,4,1,0
+47,舌左邊,暗紅,Random Forest,4,1,0
+47,舌根,暗紅,Random Forest,4,1,0
+49,舌中,暗紅,Random Forest,4,0,1
+49,舌右邊,暗紅,Random Forest,4,0,0
+49,舌尖,暗紅,Random Forest,4,0,1
+49,舌左邊,暗紅,Random Forest,4,0,1
+49,舌根,暗紅,Random Forest,4,0,1
+52,舌中,暗紅,Random Forest,4,0,0
+52,舌右邊,暗紅,Random Forest,4,0,0
+52,舌尖,暗紅,Random Forest,4,0,0
+52,舌左邊,暗紅,Random Forest,4,0,1
+52,舌根,暗紅,Random Forest,4,0,0
+64,舌中,暗紅,Random Forest,4,1,0
+68,舌右邊,暗紅,Random Forest,4,1,1
+68,舌左邊,暗紅,Random Forest,4,1,1
+68,舌根,暗紅,Random Forest,4,0,1
+87,舌中,暗紅,Random Forest,4,0,0
+87,舌右邊,暗紅,Random Forest,4,0,0
+87,舌尖,暗紅,Random Forest,4,0,0
+87,舌左邊,暗紅,Random Forest,4,0,0
+87,舌根,暗紅,Random Forest,4,0,0
+2,舌中,暗紅,Random Forest,5,0,0
+2,舌右邊,暗紅,Random Forest,5,0,0
+2,舌左邊,暗紅,Random Forest,5,0,0
+2,舌根,暗紅,Random Forest,5,0,0
+36,舌中,暗紅,Random Forest,5,0,0
+36,舌右邊,暗紅,Random Forest,5,0,1
+36,舌尖,暗紅,Random Forest,5,0,0
+36,舌左邊,暗紅,Random Forest,5,0,0
+36,舌根,暗紅,Random Forest,5,0,1
+37,舌中,暗紅,Random Forest,5,0,0
+37,舌右邊,暗紅,Random Forest,5,0,1
+37,舌尖,暗紅,Random Forest,5,0,0
+37,舌左邊,暗紅,Random Forest,5,0,0
+37,舌根,暗紅,Random Forest,5,0,1
+38,舌中,暗紅,Random Forest,5,0,0
+38,舌右邊,暗紅,Random Forest,5,0,1
+38,舌尖,暗紅,Random Forest,5,0,1
+38,舌左邊,暗紅,Random Forest,5,0,0
+40,舌根,暗紅,Random Forest,5,1,1
+42,舌尖,暗紅,Random Forest,5,0,1
+50,舌中,暗紅,Random Forest,5,1,0
+50,舌右邊,暗紅,Random Forest,5,1,0
+50,舌左邊,暗紅,Random Forest,5,1,0
+50,舌根,暗紅,Random Forest,5,1,0
+59,舌中,暗紅,Random Forest,5,0,0
+59,舌右邊,暗紅,Random Forest,5,0,0
+59,舌尖,暗紅,Random Forest,5,0,0
+59,舌左邊,暗紅,Random Forest,5,0,0
+59,舌根,暗紅,Random Forest,5,0,0
+6,舌中,暗紅,Random Forest,5,1,1
+6,舌右邊,暗紅,Random Forest,5,1,1
+6,舌尖,暗紅,Random Forest,5,1,0
+6,舌左邊,暗紅,Random Forest,5,1,1
+6,舌根,暗紅,Random Forest,5,1,1
+85,舌中,暗紅,Random Forest,5,0,0
+85,舌右邊,暗紅,Random Forest,5,0,0
+85,舌尖,暗紅,Random Forest,5,0,0
+85,舌左邊,暗紅,Random Forest,5,0,0
+85,舌根,暗紅,Random Forest,5,0,0
+96,舌中,暗紅,Random Forest,5,0,0
+96,舌右邊,暗紅,Random Forest,5,0,0
+96,舌尖,暗紅,Random Forest,5,0,0
+96,舌左邊,暗紅,Random Forest,5,0,0
+24,舌中,青紫,SVM,1,0,0
+24,舌尖,青紫,SVM,1,1,0
+24,舌根,青紫,SVM,1,0,0
+35,舌中,青紫,SVM,1,0,1
+35,舌尖,青紫,SVM,1,1,1
+35,舌根,青紫,SVM,1,0,0
+37,舌中,青紫,SVM,1,1,1
+37,舌右邊,青紫,SVM,1,0,0
+37,舌尖,青紫,SVM,1,0,1
+37,舌左邊,青紫,SVM,1,0,1
+37,舌根,青紫,SVM,1,0,0
+38,舌中,青紫,SVM,1,0,0
+38,舌右邊,青紫,SVM,1,0,0
+38,舌尖,青紫,SVM,1,0,0
+38,舌左邊,青紫,SVM,1,0,0
+38,舌根,青紫,SVM,1,0,0
+45,舌中,青紫,SVM,1,0,0
+45,舌右邊,青紫,SVM,1,0,0
+45,舌尖,青紫,SVM,1,0,1
+45,舌左邊,青紫,SVM,1,0,0
+45,舌根,青紫,SVM,1,0,0
+46,舌右邊,青紫,SVM,1,0,1
+46,舌尖,青紫,SVM,1,0,1
+46,舌左邊,青紫,SVM,1,0,0
+46,舌根,青紫,SVM,1,0,0
+51,舌中,青紫,SVM,1,0,0
+51,舌右邊,青紫,SVM,1,0,0
+51,舌尖,青紫,SVM,1,0,1
+51,舌左邊,青紫,SVM,1,0,0
+51,舌根,青紫,SVM,1,0,0
+55,舌中,青紫,SVM,1,0,0
+55,舌尖,青紫,SVM,1,0,0
+55,舌根,青紫,SVM,1,0,0
+70,舌中,青紫,SVM,1,0,0
+70,舌右邊,青紫,SVM,1,0,0
+70,舌尖,青紫,SVM,1,0,1
+70,舌左邊,青紫,SVM,1,0,0
+70,舌根,青紫,SVM,1,0,0
+72,舌中,青紫,SVM,1,0,0
+72,舌右邊,青紫,SVM,1,0,0
+72,舌左邊,青紫,SVM,1,0,0
+72,舌根,青紫,SVM,1,0,0
+74,舌中,青紫,SVM,1,0,0
+74,舌尖,青紫,SVM,1,0,0
+74,舌根,青紫,SVM,1,0,0
+11,舌中,青紫,SVM,2,0,0
+11,舌右邊,青紫,SVM,2,0,0
+11,舌尖,青紫,SVM,2,0,0
+11,舌左邊,青紫,SVM,2,0,0
+11,舌根,青紫,SVM,2,0,0
+20,舌右邊,青紫,SVM,2,0,1
+20,舌尖,青紫,SVM,2,0,1
+20,舌左邊,青紫,SVM,2,0,1
+20,舌根,青紫,SVM,2,0,0
+23,舌中,青紫,SVM,2,0,0
+23,舌尖,青紫,SVM,2,0,0
+23,舌根,青紫,SVM,2,0,0
+26,舌中,青紫,SVM,2,0,0
+26,舌尖,青紫,SVM,2,0,1
+26,舌根,青紫,SVM,2,0,0
+29,舌中,青紫,SVM,2,0,0
+29,舌右邊,青紫,SVM,2,0,0
+29,舌尖,青紫,SVM,2,0,0
+29,舌左邊,青紫,SVM,2,0,0
+29,舌根,青紫,SVM,2,0,0
+31,舌中,青紫,SVM,2,0,0
+31,舌右邊,青紫,SVM,2,0,0
+31,舌尖,青紫,SVM,2,0,0
+31,舌左邊,青紫,SVM,2,0,0
+31,舌根,青紫,SVM,2,0,0
+34,舌尖,青紫,SVM,2,0,1
+34,舌根,青紫,SVM,2,0,0
+39,舌中,青紫,SVM,2,0,0
+39,舌尖,青紫,SVM,2,0,0
+39,舌左邊,青紫,SVM,2,0,0
+39,舌根,青紫,SVM,2,0,0
+42,舌尖,青紫,SVM,2,0,1
+42,舌根,青紫,SVM,2,0,0
+49,舌中,青紫,SVM,2,1,0
+49,舌右邊,青紫,SVM,2,1,1
+49,舌尖,青紫,SVM,2,1,1
+49,舌左邊,青紫,SVM,2,1,0
+8,舌中,青紫,SVM,2,0,0
+8,舌右邊,青紫,SVM,2,0,0
+8,舌尖,青紫,SVM,2,0,0
+8,舌左邊,青紫,SVM,2,0,0
+8,舌根,青紫,SVM,2,0,0
+13,舌中,青紫,SVM,3,0,0
+13,舌根,青紫,SVM,3,0,0
+32,舌中,青紫,SVM,3,0,1
+32,舌尖,青紫,SVM,3,0,0
+32,舌左邊,青紫,SVM,3,0,1
+32,舌根,青紫,SVM,3,0,1
+44,舌右邊,青紫,SVM,3,0,0
+44,舌尖,青紫,SVM,3,0,0
+44,舌左邊,青紫,SVM,3,0,0
+44,舌根,青紫,SVM,3,0,0
+48,舌根,青紫,SVM,3,0,0
+5,舌右邊,青紫,SVM,3,0,0
+5,舌尖,青紫,SVM,3,0,0
+5,舌左邊,青紫,SVM,3,0,0
+52,舌中,青紫,SVM,3,0,0
+52,舌右邊,青紫,SVM,3,0,1
+52,舌尖,青紫,SVM,3,0,0
+52,舌左邊,青紫,SVM,3,0,0
+52,舌根,青紫,SVM,3,0,0
+59,舌中,青紫,SVM,3,0,0
+59,舌右邊,青紫,SVM,3,0,0
+59,舌尖,青紫,SVM,3,0,0
+59,舌左邊,青紫,SVM,3,0,1
+59,舌根,青紫,SVM,3,0,0
+60,舌右邊,青紫,SVM,3,0,0
+60,舌左邊,青紫,SVM,3,0,0
+60,舌根,青紫,SVM,3,0,0
+64,舌根,青紫,SVM,3,0,0
+68,舌中,青紫,SVM,3,1,0
+68,舌右邊,青紫,SVM,3,1,0
+68,舌尖,青紫,SVM,3,1,0
+68,舌左邊,青紫,SVM,3,1,0
+68,舌根,青紫,SVM,3,1,0
+9,舌中,青紫,SVM,3,0,0
+9,舌右邊,青紫,SVM,3,0,0
+9,舌尖,青紫,SVM,3,0,0
+9,舌左邊,青紫,SVM,3,0,0
+9,舌根,青紫,SVM,3,0,0
+96,舌中,青紫,SVM,3,0,0
+96,舌右邊,青紫,SVM,3,0,0
+96,舌尖,青紫,SVM,3,0,1
+96,舌左邊,青紫,SVM,3,0,0
+96,舌根,青紫,SVM,3,0,0
+10,舌中,青紫,SVM,4,0,0
+10,舌右邊,青紫,SVM,4,0,0
+10,舌尖,青紫,SVM,4,0,0
+10,舌左邊,青紫,SVM,4,0,0
+10,舌根,青紫,SVM,4,0,0
+19,舌中,青紫,SVM,4,0,0
+19,舌尖,青紫,SVM,4,0,0
+19,舌左邊,青紫,SVM,4,0,0
+19,舌根,青紫,SVM,4,0,0
+2,舌中,青紫,SVM,4,0,0
+2,舌右邊,青紫,SVM,4,0,0
+2,舌尖,青紫,SVM,4,0,0
+2,舌左邊,青紫,SVM,4,0,0
+2,舌根,青紫,SVM,4,0,0
+30,舌右邊,青紫,SVM,4,0,1
+30,舌左邊,青紫,SVM,4,0,1
+30,舌根,青紫,SVM,4,0,0
+40,舌中,青紫,SVM,4,0,1
+40,舌右邊,青紫,SVM,4,0,0
+40,舌尖,青紫,SVM,4,1,1
+40,舌左邊,青紫,SVM,4,0,0
+40,舌根,青紫,SVM,4,0,0
+50,舌中,青紫,SVM,4,1,1
+50,舌右邊,青紫,SVM,4,1,1
+50,舌左邊,青紫,SVM,4,1,1
+50,舌根,青紫,SVM,4,0,1
+53,舌中,青紫,SVM,4,0,0
+53,舌右邊,青紫,SVM,4,0,0
+53,舌尖,青紫,SVM,4,0,0
+53,舌左邊,青紫,SVM,4,0,0
+53,舌根,青紫,SVM,4,0,0
+58,舌中,青紫,SVM,4,0,0
+58,舌右邊,青紫,SVM,4,0,0
+58,舌左邊,青紫,SVM,4,0,0
+58,舌根,青紫,SVM,4,0,0
+6,舌中,青紫,SVM,4,0,0
+6,舌右邊,青紫,SVM,4,0,0
+6,舌尖,青紫,SVM,4,0,0
+6,舌左邊,青紫,SVM,4,0,0
+6,舌根,青紫,SVM,4,0,0
+87,舌中,青紫,SVM,4,0,0
+87,舌根,青紫,SVM,4,0,0
+17,舌中,青紫,SVM,5,0,1
+17,舌右邊,青紫,SVM,5,0,1
+17,舌根,青紫,SVM,5,0,0
+27,舌中,青紫,SVM,5,0,0
+27,舌右邊,青紫,SVM,5,0,0
+27,舌左邊,青紫,SVM,5,0,0
+27,舌根,青紫,SVM,5,0,0
+36,舌中,青紫,SVM,5,0,0
+36,舌右邊,青紫,SVM,5,0,0
+36,舌尖,青紫,SVM,5,0,0
+36,舌左邊,青紫,SVM,5,0,0
+36,舌根,青紫,SVM,5,0,0
+41,舌中,青紫,SVM,5,0,0
+41,舌尖,青紫,SVM,5,0,0
+41,舌根,青紫,SVM,5,0,0
+47,舌中,青紫,SVM,5,0,0
+47,舌右邊,青紫,SVM,5,0,0
+47,舌尖,青紫,SVM,5,0,0
+47,舌左邊,青紫,SVM,5,0,0
+47,舌根,青紫,SVM,5,0,0
+54,舌中,青紫,SVM,5,0,1
+54,舌右邊,青紫,SVM,5,0,1
+54,舌尖,青紫,SVM,5,0,0
+54,舌左邊,青紫,SVM,5,0,1
+54,舌根,青紫,SVM,5,0,0
+56,舌中,青紫,SVM,5,0,0
+56,舌尖,青紫,SVM,5,0,0
+56,舌左邊,青紫,SVM,5,0,0
+56,舌根,青紫,SVM,5,0,0
+57,舌中,青紫,SVM,5,0,1
+57,舌右邊,青紫,SVM,5,0,1
+57,舌尖,青紫,SVM,5,1,1
+57,舌根,青紫,SVM,5,0,0
+7,舌中,青紫,SVM,5,0,0
+7,舌右邊,青紫,SVM,5,0,0
+7,舌尖,青紫,SVM,5,0,0
+7,舌左邊,青紫,SVM,5,0,0
+7,舌根,青紫,SVM,5,0,0
+85,舌中,青紫,SVM,5,0,0
+85,舌右邊,青紫,SVM,5,1,0
+85,舌尖,青紫,SVM,5,0,0
+85,舌根,青紫,SVM,5,0,0
+24,舌中,青紫,Random Forest,1,0,0
+24,舌尖,青紫,Random Forest,1,1,0
+24,舌根,青紫,Random Forest,1,0,0
+35,舌中,青紫,Random Forest,1,0,0
+35,舌尖,青紫,Random Forest,1,1,0
+35,舌根,青紫,Random Forest,1,0,0
+37,舌中,青紫,Random Forest,1,1,0
+37,舌右邊,青紫,Random Forest,1,0,0
+37,舌尖,青紫,Random Forest,1,0,0
+37,舌左邊,青紫,Random Forest,1,0,1
+37,舌根,青紫,Random Forest,1,0,0
+38,舌中,青紫,Random Forest,1,0,0
+38,舌右邊,青紫,Random Forest,1,0,0
+38,舌尖,青紫,Random Forest,1,0,0
+38,舌左邊,青紫,Random Forest,1,0,0
+38,舌根,青紫,Random Forest,1,0,0
+45,舌中,青紫,Random Forest,1,0,0
+45,舌右邊,青紫,Random Forest,1,0,0
+45,舌尖,青紫,Random Forest,1,0,0
+45,舌左邊,青紫,Random Forest,1,0,0
+45,舌根,青紫,Random Forest,1,0,0
+46,舌右邊,青紫,Random Forest,1,0,0
+46,舌尖,青紫,Random Forest,1,0,0
+46,舌左邊,青紫,Random Forest,1,0,0
+46,舌根,青紫,Random Forest,1,0,0
+51,舌中,青紫,Random Forest,1,0,0
+51,舌右邊,青紫,Random Forest,1,0,0
+51,舌尖,青紫,Random Forest,1,0,0
+51,舌左邊,青紫,Random Forest,1,0,0
+51,舌根,青紫,Random Forest,1,0,0
+55,舌中,青紫,Random Forest,1,0,0
+55,舌尖,青紫,Random Forest,1,0,0
+55,舌根,青紫,Random Forest,1,0,0
+70,舌中,青紫,Random Forest,1,0,0
+70,舌右邊,青紫,Random Forest,1,0,0
+70,舌尖,青紫,Random Forest,1,0,0
+70,舌左邊,青紫,Random Forest,1,0,0
+70,舌根,青紫,Random Forest,1,0,0
+72,舌中,青紫,Random Forest,1,0,0
+72,舌右邊,青紫,Random Forest,1,0,0
+72,舌左邊,青紫,Random Forest,1,0,0
+72,舌根,青紫,Random Forest,1,0,0
+74,舌中,青紫,Random Forest,1,0,0
+74,舌尖,青紫,Random Forest,1,0,0
+74,舌根,青紫,Random Forest,1,0,0
+11,舌中,青紫,Random Forest,2,0,0
+11,舌右邊,青紫,Random Forest,2,0,0
+11,舌尖,青紫,Random Forest,2,0,0
+11,舌左邊,青紫,Random Forest,2,0,0
+11,舌根,青紫,Random Forest,2,0,0
+20,舌右邊,青紫,Random Forest,2,0,0
+20,舌尖,青紫,Random Forest,2,0,0
+20,舌左邊,青紫,Random Forest,2,0,0
+20,舌根,青紫,Random Forest,2,0,0
+23,舌中,青紫,Random Forest,2,0,0
+23,舌尖,青紫,Random Forest,2,0,0
+23,舌根,青紫,Random Forest,2,0,0
+26,舌中,青紫,Random Forest,2,0,0
+26,舌尖,青紫,Random Forest,2,0,0
+26,舌根,青紫,Random Forest,2,0,0
+29,舌中,青紫,Random Forest,2,0,0
+29,舌右邊,青紫,Random Forest,2,0,0
+29,舌尖,青紫,Random Forest,2,0,0
+29,舌左邊,青紫,Random Forest,2,0,0
+29,舌根,青紫,Random Forest,2,0,0
+31,舌中,青紫,Random Forest,2,0,0
+31,舌右邊,青紫,Random Forest,2,0,0
+31,舌尖,青紫,Random Forest,2,0,0
+31,舌左邊,青紫,Random Forest,2,0,0
+31,舌根,青紫,Random Forest,2,0,0
+34,舌尖,青紫,Random Forest,2,0,1
+34,舌根,青紫,Random Forest,2,0,0
+39,舌中,青紫,Random Forest,2,0,0
+39,舌尖,青紫,Random Forest,2,0,0
+39,舌左邊,青紫,Random Forest,2,0,0
+39,舌根,青紫,Random Forest,2,0,0
+42,舌尖,青紫,Random Forest,2,0,0
+42,舌根,青紫,Random Forest,2,0,0
+49,舌中,青紫,Random Forest,2,1,0
+49,舌右邊,青紫,Random Forest,2,1,0
+49,舌尖,青紫,Random Forest,2,1,0
+49,舌左邊,青紫,Random Forest,2,1,0
+8,舌中,青紫,Random Forest,2,0,0
+8,舌右邊,青紫,Random Forest,2,0,0
+8,舌尖,青紫,Random Forest,2,0,0
+8,舌左邊,青紫,Random Forest,2,0,0
+8,舌根,青紫,Random Forest,2,0,0
+13,舌中,青紫,Random Forest,3,0,0
+13,舌根,青紫,Random Forest,3,0,0
+32,舌中,青紫,Random Forest,3,0,1
+32,舌尖,青紫,Random Forest,3,0,0
+32,舌左邊,青紫,Random Forest,3,0,1
+32,舌根,青紫,Random Forest,3,0,0
+44,舌右邊,青紫,Random Forest,3,0,0
+44,舌尖,青紫,Random Forest,3,0,0
+44,舌左邊,青紫,Random Forest,3,0,0
+44,舌根,青紫,Random Forest,3,0,0
+48,舌根,青紫,Random Forest,3,0,0
+5,舌右邊,青紫,Random Forest,3,0,0
+5,舌尖,青紫,Random Forest,3,0,0
+5,舌左邊,青紫,Random Forest,3,0,0
+52,舌中,青紫,Random Forest,3,0,0
+52,舌右邊,青紫,Random Forest,3,0,0
+52,舌尖,青紫,Random Forest,3,0,0
+52,舌左邊,青紫,Random Forest,3,0,0
+52,舌根,青紫,Random Forest,3,0,0
+59,舌中,青紫,Random Forest,3,0,0
+59,舌右邊,青紫,Random Forest,3,0,0
+59,舌尖,青紫,Random Forest,3,0,0
+59,舌左邊,青紫,Random Forest,3,0,0
+59,舌根,青紫,Random Forest,3,0,0
+60,舌右邊,青紫,Random Forest,3,0,0
+60,舌左邊,青紫,Random Forest,3,0,0
+60,舌根,青紫,Random Forest,3,0,0
+64,舌根,青紫,Random Forest,3,0,0
+68,舌中,青紫,Random Forest,3,1,0
+68,舌右邊,青紫,Random Forest,3,1,0
+68,舌尖,青紫,Random Forest,3,1,0
+68,舌左邊,青紫,Random Forest,3,1,0
+68,舌根,青紫,Random Forest,3,1,0
+9,舌中,青紫,Random Forest,3,0,0
+9,舌右邊,青紫,Random Forest,3,0,0
+9,舌尖,青紫,Random Forest,3,0,0
+9,舌左邊,青紫,Random Forest,3,0,0
+9,舌根,青紫,Random Forest,3,0,0
+96,舌中,青紫,Random Forest,3,0,0
+96,舌右邊,青紫,Random Forest,3,0,0
+96,舌尖,青紫,Random Forest,3,0,1
+96,舌左邊,青紫,Random Forest,3,0,0
+96,舌根,青紫,Random Forest,3,0,0
+10,舌中,青紫,Random Forest,4,0,0
+10,舌右邊,青紫,Random Forest,4,0,0
+10,舌尖,青紫,Random Forest,4,0,0
+10,舌左邊,青紫,Random Forest,4,0,0
+10,舌根,青紫,Random Forest,4,0,0
+19,舌中,青紫,Random Forest,4,0,0
+19,舌尖,青紫,Random Forest,4,0,0
+19,舌左邊,青紫,Random Forest,4,0,0
+19,舌根,青紫,Random Forest,4,0,0
+2,舌中,青紫,Random Forest,4,0,0
+2,舌右邊,青紫,Random Forest,4,0,0
+2,舌尖,青紫,Random Forest,4,0,0
+2,舌左邊,青紫,Random Forest,4,0,0
+2,舌根,青紫,Random Forest,4,0,0
+30,舌右邊,青紫,Random Forest,4,0,1
+30,舌左邊,青紫,Random Forest,4,0,1
+30,舌根,青紫,Random Forest,4,0,0
+40,舌中,青紫,Random Forest,4,0,0
+40,舌右邊,青紫,Random Forest,4,0,0
+40,舌尖,青紫,Random Forest,4,1,0
+40,舌左邊,青紫,Random Forest,4,0,0
+40,舌根,青紫,Random Forest,4,0,0
+50,舌中,青紫,Random Forest,4,1,1
+50,舌右邊,青紫,Random Forest,4,1,0
+50,舌左邊,青紫,Random Forest,4,1,0
+50,舌根,青紫,Random Forest,4,0,0
+53,舌中,青紫,Random Forest,4,0,0
+53,舌右邊,青紫,Random Forest,4,0,0
+53,舌尖,青紫,Random Forest,4,0,0
+53,舌左邊,青紫,Random Forest,4,0,0
+53,舌根,青紫,Random Forest,4,0,0
+58,舌中,青紫,Random Forest,4,0,0
+58,舌右邊,青紫,Random Forest,4,0,0
+58,舌左邊,青紫,Random Forest,4,0,0
+58,舌根,青紫,Random Forest,4,0,0
+6,舌中,青紫,Random Forest,4,0,0
+6,舌右邊,青紫,Random Forest,4,0,0
+6,舌尖,青紫,Random Forest,4,0,0
+6,舌左邊,青紫,Random Forest,4,0,0
+6,舌根,青紫,Random Forest,4,0,0
+87,舌中,青紫,Random Forest,4,0,0
+87,舌根,青紫,Random Forest,4,0,0
+17,舌中,青紫,Random Forest,5,0,0
+17,舌右邊,青紫,Random Forest,5,0,0
+17,舌根,青紫,Random Forest,5,0,0
+27,舌中,青紫,Random Forest,5,0,0
+27,舌右邊,青紫,Random Forest,5,0,0
+27,舌左邊,青紫,Random Forest,5,0,0
+27,舌根,青紫,Random Forest,5,0,0
+36,舌中,青紫,Random Forest,5,0,0
+36,舌右邊,青紫,Random Forest,5,0,0
+36,舌尖,青紫,Random Forest,5,0,0
+36,舌左邊,青紫,Random Forest,5,0,0
+36,舌根,青紫,Random Forest,5,0,0
+41,舌中,青紫,Random Forest,5,0,0
+41,舌尖,青紫,Random Forest,5,0,1
+41,舌根,青紫,Random Forest,5,0,0
+47,舌中,青紫,Random Forest,5,0,0
+47,舌右邊,青紫,Random Forest,5,0,0
+47,舌尖,青紫,Random Forest,5,0,0
+47,舌左邊,青紫,Random Forest,5,0,0
+47,舌根,青紫,Random Forest,5,0,0
+54,舌中,青紫,Random Forest,5,0,0
+54,舌右邊,青紫,Random Forest,5,0,0
+54,舌尖,青紫,Random Forest,5,0,1
+54,舌左邊,青紫,Random Forest,5,0,0
+54,舌根,青紫,Random Forest,5,0,0
+56,舌中,青紫,Random Forest,5,0,0
+56,舌尖,青紫,Random Forest,5,0,0
+56,舌左邊,青紫,Random Forest,5,0,0
+56,舌根,青紫,Random Forest,5,0,0
+57,舌中,青紫,Random Forest,5,0,0
+57,舌右邊,青紫,Random Forest,5,0,1
+57,舌尖,青紫,Random Forest,5,1,1
+57,舌根,青紫,Random Forest,5,0,0
+7,舌中,青紫,Random Forest,5,0,0
+7,舌右邊,青紫,Random Forest,5,0,0
+7,舌尖,青紫,Random Forest,5,0,0
+7,舌左邊,青紫,Random Forest,5,0,0
+7,舌根,青紫,Random Forest,5,0,0
+85,舌中,青紫,Random Forest,5,0,0
+85,舌右邊,青紫,Random Forest,5,1,0
+85,舌尖,青紫,Random Forest,5,0,0
+85,舌根,青紫,Random Forest,5,0,0

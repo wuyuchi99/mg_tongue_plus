@@ -1,0 +1,7 @@
+﻿color,unanimous_train_images,disagreement_test_images,train_region_items,train_positive,train_negative,train_can_binary_classify,test_total_region_items,test_evaluable_items,test_positive,test_negative,test_three_one_items,test_three_one_positive,test_three_one_negative,test_two_two_items
+淡紅,26,74,130,5,125,True,370,268,93,175,173,68,105,102
+淡白,72,28,360,0,360,False,140,112,17,95,65,15,50,28
+鮮紅,26,74,130,10,120,True,370,218,94,124,170,72,98,152
+暗紅,13,87,65,0,65,False,435,329,95,234,241,86,155,106
+青紫,12,88,60,3,57,True,440,338,45,293,174,40,134,102
+灰黑,91,9,455,0,455,False,45,45,0,45,11,0,11,0

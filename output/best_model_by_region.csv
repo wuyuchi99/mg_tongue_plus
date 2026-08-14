@@ -1,0 +1,6 @@
+﻿region,best_segmentation_method,best_model,n_evaluable_colors,best_macro_f1,best_macro_balanced_accuracy
+舌尖,tip_middle_root_1_3_1,SVM,5,0.4386253574986343,0.7029414714948421
+舌中,tip_middle_root_1_3_1,SVM,5,0.42240500240500245,0.6872524314778088
+舌左邊,tip_middle_root_1_3_1,SVM,5,0.4671679845360551,0.7078833600999628
+舌右邊,tip_middle_root_1_2_2,SVM,5,0.4777973621057273,0.6878701273226733
+舌根,tip_middle_root_1_2_2,SVM,5,0.26436564223798265,0.5608084876930854

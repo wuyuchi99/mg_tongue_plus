@@ -1,0 +1,5 @@
+﻿color,analysis_type,valid_folds,total_folds,all_folds_valid,minimum_train_positive,minimum_test_positive,minimum_test_negative
+淡紅,primary,5,5,True,18,8,16
+鮮紅,primary,5,5,True,25,13,11
+暗紅,exploratory,5,5,True,5,16,28
+青紫,exploratory,5,5,True,5,7,20
